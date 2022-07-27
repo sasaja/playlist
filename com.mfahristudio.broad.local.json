@@ -1,13 +1,11 @@
 {
-  
-  "update":[
-    {
-      "new_pkg": "com.mfahristudio.djremix.sayangjangmarah",
-      "message": "Please install app updates for your device before."
-    }
-  ],
-  
-  
+
+	"update": [{
+		"new_pkg": "com.mfahristudio.djremix.sayangjangmarah",
+		"message": "Please install app updates for your device before."
+	}],
+
+
 	"playlist": [{
 			"judul": "DJ GORENG GORENG BY DJ SOPAN JEDAG JEDUG VIRAL TIK TOK TERBARU 2022 YANG KALIAN CARI",
 			"url": "https://ia601400.us.archive.org/21/items/dj-ruby-cinta-sejati/DJ%20GORENG%20GORENG%20BY%20DJ%20SOPAN%20JEDAG%20JEDUG%20VIRAL%20TIK%20TOK%20TERBARU%202022%20YANG%20KALIAN%20CARI%20.mp3"
