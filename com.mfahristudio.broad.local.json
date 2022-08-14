@@ -1,30 +1,21 @@
 {
 
-	"update": [{
-		"new_pkg": "com.mfahristudio.broad.local",
-		"message": "Please install app updates for your device before."
-	}],
+	"update": [
+		{
+			"new_pkg": "com.mfahristudio.broad.local",
+			"message": "New app version available. Please update first!."
+		}
+	],
 
 
-	"playlist": [{
+	"playlist": [
+		{
 			"judul": "Sample JSON 1",
-			"url": "https://ia601400.us.archive.org/21/items/dj-ruby-cinta-sejati/DJ%20GORENG%20GORENG%20BY%20DJ%20SOPAN%20JEDAG%20JEDUG%20VIRAL%20TIK%20TOK%20TERBARU%202022%20YANG%20KALIAN%20CARI%20.mp3"
-		},
-		     {
-			"judul": "Sample JSON 2",
-			"url": "https://ia601400.us.archive.org/21/items/dj-ruby-cinta-sejati/DJ%20GORENG%20GORENG%20BY%20DJ%20SOPAN%20JEDAG%20JEDUG%20VIRAL%20TIK%20TOK%20TERBARU%202022%20YANG%20KALIAN%20CARI%20.mp3"
-		},
-		     {
-			"judul": "Sample JSON 3",
-			"url": "https://ia601400.us.archive.org/21/items/dj-ruby-cinta-sejati/DJ%20GORENG%20GORENG%20BY%20DJ%20SOPAN%20JEDAG%20JEDUG%20VIRAL%20TIK%20TOK%20TERBARU%202022%20YANG%20KALIAN%20CARI%20.mp3"
-		},
-		     {
-			"judul": "Sample JSON 4",
-			"url": "https://ia601400.us.archive.org/21/items/dj-ruby-cinta-sejati/DJ%20GORENG%20GORENG%20BY%20DJ%20SOPAN%20JEDAG%20JEDUG%20VIRAL%20TIK%20TOK%20TERBARU%202022%20YANG%20KALIAN%20CARI%20.mp3"
+			"url": "https://ia800705.us.archive.org/20/items/052pacCradleToTheGraveprofessorJayVersionf.BigSyke/01-2pac-bury_me_a_g_%28original_solo_version%29_%28f._natasha_walker%29.mp3"
 		},
 		{
-			"judul": "Sample JSON 5",
-			"url": "https://ia801400.us.archive.org/21/items/dj-ruby-cinta-sejati/DJ%20RINDU%20SEMALAM%20REMIX%20VIRAL%20TIKTOK%20TERBARU%202022%20SEMALAM%20KU%20TAHAN%20KU%20TAHAN%20SEMALAM.mp3"
+			"judul": "Sample JSON 2",
+			"url": "https://ia600705.us.archive.org/20/items/052pacCradleToTheGraveprofessorJayVersionf.BigSyke/02-2pac-fake_ass_bitches%20%28original_version%29.mp3"
 		}
 	]
 }
