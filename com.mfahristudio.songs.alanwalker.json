@@ -1,8 +1,11 @@
 {
-	"update": [{
-		"new_pkg": "com.mfahristudio.songs.alanwalker",
-		"message": "Please install app updates for your device before."
-	}],
+
+	"update": [
+		{
+			"new_pkg": "com.mfahristudio.songs.alanwalker",
+			"message": "Please install app updates for your device before."
+		}
+	],
 
 
 	"playlist": [
