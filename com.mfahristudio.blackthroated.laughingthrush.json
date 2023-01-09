@@ -1,0 +1,129 @@
+{
+	"update": [{
+		"new_pkg": "com.mfahristudio.blackthroated.laughingthrush",
+		"message": "Please install app updates for your device before."
+	}],
+
+
+	"playlist": [
+		
+		{
+			"id": "1",
+			"judul": "01 Suara Burung Kepodang Poksay Cemani",
+			"url": "https://ia601900.us.archive.org/5/items/suara-burung-kepodang-poksay-cemani/01%20Suara%20Burung%20Kepodang%20Poksay%20Cemani.mp3"
+		},
+
+		
+		{
+			"id": "2",
+			"judul": "02 Suara Burung Kepodang Poksay Cemani",
+			"url": "https://ia601900.us.archive.org/5/items/suara-burung-kepodang-poksay-cemani/02%20Suara%20Burung%20Kepodang%20Poksay%20Cemani.mp3"
+		},
+
+		
+		{
+			"id": "3",
+			"judul": "Poksay Hongkong Gacor Mantab (Gathutkaca)",
+			"url": "https://ia803204.us.archive.org/1/items/PoksayJambulSumatraSuaraKerasJuaraNasional/Poksay%20Hongkong%20gacor%20mantab%20%28Gathutkaca%29.mp3"
+		},
+
+		
+		{
+			"id": "4",
+			"judul": "Poksay Jambul Sumatra Suara Keras Juara Nasional",
+			"url": "https://ia903204.us.archive.org/1/items/PoksayJambulSumatraSuaraKerasJuaraNasional/Poksay%20jambul%20sumatra%20Suara%20keras%20juara%20nasional.mp3"
+		},
+
+		
+		{
+			"id": "5",
+			"judul": "Suara poksay mandarin variasi 1",
+			"url": "https://ia803009.us.archive.org/16/items/suara-poksay-mandarin-variasi-1/suara-poksay-mandarin-variasi-1.mp3"
+		},
+
+		
+		{
+			"id": "6",
+			"judul": "Suara poksay mandarin variasi 2",
+			"url": "https://ia803009.us.archive.org/16/items/suara-poksay-mandarin-variasi-1/suara-poksay-mandarin-variasi-2.mp3"
+		},
+
+		
+		{
+			"id": "7",
+			"judul": "Suara poksay mandarin variasi 3",
+			"url": "https://ia803009.us.archive.org/16/items/suara-poksay-mandarin-variasi-1/suara-poksay-mandarin-variasi-3.mp3"
+		},
+
+		
+		{
+			"id": "8",
+			"judul": "Suara poksay mandarin variasi 4",
+			"url": "https://ia803009.us.archive.org/16/items/suara-poksay-mandarin-variasi-1/suara-poksay-mandarin-variasi-4.mp3"
+		},
+
+		
+		{
+			"id": "9",
+			"judul": "Suara poksay mandarin variasi 5",
+			"url": "https://ia803009.us.archive.org/16/items/suara-poksay-mandarin-variasi-1/suara-poksay-mandarin-variasi-5.mp3"
+		},
+
+		
+		{
+			"id": "10",
+			"judul": "Poksay hitam 01",
+			"url": "https://ia600803.us.archive.org/18/items/poksay_hitam_01/poksay_hitam_01.mp3"
+		},
+
+		
+		{
+			"id": "11",
+			"judul": "Poksay",
+			"url": "https://ia801402.us.archive.org/32/items/poksay_202207/poksay.mp3"
+		},
+
+		
+		{
+			"id": "12",
+			"judul": "Poksai Sumatera",
+			"url": "https://ia601001.us.archive.org/23/items/Poksay/poksai%20sumatera.mp3"
+		},
+
+		
+		{
+			"id": "13",
+			"judul": "Poksay Genting",
+			"url": "https://ia601001.us.archive.org/23/items/Poksay/poksay%20genting.mp3"
+		},
+
+		
+		{
+			"id": "14",
+			"judul": "Poksay Hongkong",
+			"url": "https://ia601001.us.archive.org/23/items/Poksay/poksay%20hongkong.mp3"
+		},
+
+		
+		{
+			"id": "15",
+			"judul": "Poksay Jambul",
+			"url": "https://ia601001.us.archive.org/23/items/Poksay/poksay%20jambul.mp3"
+		},
+
+		
+		{
+			"id": "16",
+			"judul": "Poksay Kuda",
+			"url": "https://ia601001.us.archive.org/23/items/Poksay/poksay%20kuda.mp3"
+		},
+
+		
+		{
+			"id": "17",
+			"judul": "Poksay Mantel",
+			"url": "https://ia601001.us.archive.org/23/items/Poksay/poksay%20mantel.mp3"
+		}
+
+	]
+}
