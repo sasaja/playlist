@@ -1,0 +1,990 @@
+{
+	"update": [{
+		"new_pkg": "com.mfahristudio.kacer.gacor",
+		"message": "Please install app updates for your device before."
+	}],
+
+
+	"playlist": [
+		
+		{
+			"id": "1",
+			"judul": "Kacer Betina 1 516",
+			"url": "https://ia600104.us.archive.org/12/items/MasteranKacerMadagaskar/kacer%20betina%201.mp3"
+		},
+
+		
+		{
+			"id": "2",
+			"judul": "Kacer Jantan 1 261",
+			"url": "https://ia600104.us.archive.org/12/items/MasteranKacerMadagaskar/kacer%20jantan%201.mp3"
+		},
+
+		
+		{
+			"id": "3",
+			"judul": "Kacer Jantan 3 425",
+			"url": "https://ia600104.us.archive.org/12/items/MasteranKacerMadagaskar/kacer%20jantan%203.mp3"
+		},
+
+		
+		{
+			"id": "4",
+			"judul": "Kacer Poci 1 292",
+			"url": "https://ia600104.us.archive.org/12/items/MasteranKacerMadagaskar/Kacer%20Poci%201.mp3"
+		},
+
+		
+		{
+			"id": "5",
+			"judul": "Kacer Poci 3 526",
+			"url": "https://ia600104.us.archive.org/12/items/MasteranKacerMadagaskar/Kacer%20Poci%203.mp3"
+		},
+
+		
+		{
+			"id": "6",
+			"judul": "Masteran Kacer Bali 757",
+			"url": "https://ia600104.us.archive.org/12/items/MasteranKacerMadagaskar/masteran%20kacer%20Bali.mp3"
+		},
+
+		
+		{
+			"id": "7",
+			"judul": "Masteran Kacer Madagaskar 120",
+			"url": "https://ia600104.us.archive.org/12/items/MasteranKacerMadagaskar/masteran%20kacer%20Madagaskar.mp3"
+		},
+
+		
+		{
+			"id": "8",
+			"judul": "Masteran Kacer Poci 766",
+			"url": "https://ia600104.us.archive.org/12/items/MasteranKacerMadagaskar/Masteran%20Kacer%20poci.mp3"
+		},
+
+		
+		{
+			"id": "9",
+			"judul": "Suara kacer masteran 1 620",
+			"url": "https://ia600805.us.archive.org/17/items/suara-kacer-masteran-1/suara-kacer-masteran-1.mp3"
+		},
+
+		
+		{
+			"id": "10",
+			"judul": "Suara kacer masteran 3 749",
+			"url": "https://ia600805.us.archive.org/17/items/suara-kacer-masteran-1/suara-kacer-masteran-3.mp3"
+		},
+
+		
+		{
+			"id": "11",
+			"judul": "Suara kacer pikat v3 350",
+			"url": "https://ia601007.us.archive.org/7/items/suara-kacer-pikat-v4/suara-kacer-pikat-v3.mp3"
+		},
+
+		
+		{
+			"id": "12",
+			"judul": "Suara kacer pikat v4 850",
+			"url": "https://ia601007.us.archive.org/7/items/suara-kacer-pikat-v4/suara-kacer-pikat-v4.mp3"
+		},
+
+		
+		{
+			"id": "13",
+			"judul": "Suarakacer 29 800",
+			"url": "https://ia601401.us.archive.org/35/items/suarakacer/suarakacer_29.mp3"
+		},
+
+		
+		{
+			"id": "14",
+			"judul": "Kacer betina 1 960",
+			"url": "https://ia601407.us.archive.org/34/items/KacerBetina1/kacer-betina%201.mp3"
+		},
+
+		
+		{
+			"id": "15",
+			"judul": "Kacer Poci ( Magpie Robin ) Singing #3   Burungmaster.com 865",
+			"url": "https://ia601409.us.archive.org/21/items/KacerPociMagpieRobinSinging3Burungmaster.com/Kacer%20Poci%20%28%20Magpie%20Robin%20%29%20Singing%20%233%20-%20burungmaster.com.mp3"
+		},
+
+		
+		{
+			"id": "16",
+			"judul": "Pancingan Suara Siulan Kacer Gacor Mantap Untuk Memancing Kacer Lain Agar Mau Nyaut Bunyi 153",
+			"url": "https://ia601502.us.archive.org/8/items/suara-burung-kacer/Pancingan%20suara%20siulan%20kacer%20gacor%20mantap%20untuk%20memancing%20kacer%20lain%20agar%20mau%20nyaut%20bunyi.mp3"
+		},
+
+		
+		{
+			"id": "17",
+			"judul": "Kacer Betina 2 701",
+			"url": "https://ia800104.us.archive.org/12/items/MasteranKacerMadagaskar/kacer%20betina%202.mp3"
+		},
+
+		
+		{
+			"id": "18",
+			"judul": "Kacer Jantan 2 775",
+			"url": "https://ia800104.us.archive.org/12/items/MasteranKacerMadagaskar/kacer%20jantan%202.mp3"
+		},
+
+		
+		{
+			"id": "19",
+			"judul": "Kacer Poci 2 230",
+			"url": "https://ia800104.us.archive.org/12/items/MasteranKacerMadagaskar/Kacer%20Poci%202.mp3"
+		},
+
+		
+		{
+			"id": "20",
+			"judul": "Masteran Kacer  Jawa 121",
+			"url": "https://ia800104.us.archive.org/12/items/MasteranKacerMadagaskar/Masteran%20Kacer%20%20Jawa.mp3"
+		},
+
+		
+		{
+			"id": "21",
+			"judul": "Masteran Kacer Blorok 222",
+			"url": "https://ia800104.us.archive.org/12/items/MasteranKacerMadagaskar/Masteran%20kacer%20Blorok.mp3"
+		},
+
+		
+		{
+			"id": "22",
+			"judul": "Masteran Kacer Filiphina 753",
+			"url": "https://ia800104.us.archive.org/12/items/MasteranKacerMadagaskar/Masteran%20kacer%20filiphina.mp3"
+		},
+
+		
+		{
+			"id": "23",
+			"judul": "Masteran Kacer Hitam 486",
+			"url": "https://ia800104.us.archive.org/12/items/MasteranKacerMadagaskar/Masteran%20Kacer%20hitam.mp3"
+		},
+
+		
+		{
+			"id": "24",
+			"judul": "Kacer betina 02 432",
+			"url": "https://ia800600.us.archive.org/18/items/kacer_betina_02/kacer_betina_02.mp3"
+		},
+
+		
+		{
+			"id": "25",
+			"judul": "Suara kacer masteran 2 761",
+			"url": "https://ia800805.us.archive.org/17/items/suara-kacer-masteran-1/suara-kacer-masteran-2.mp3"
+		},
+
+		
+		{
+			"id": "26",
+			"judul": "Suara kacer masteran 4 937",
+			"url": "https://ia800805.us.archive.org/17/items/suara-kacer-masteran-1/suara-kacer-masteran-4.mp3"
+		},
+
+		
+		{
+			"id": "27",
+			"judul": "Suara kacer masteran 5 671",
+			"url": "https://ia800805.us.archive.org/17/items/suara-kacer-masteran-1/suara-kacer-masteran-5.mp3"
+		},
+
+		
+		{
+			"id": "28",
+			"judul": "Suara kacer pikat v1 395",
+			"url": "https://ia801007.us.archive.org/7/items/suara-kacer-pikat-v4/suara-kacer-pikat-v1.mp3"
+		},
+
+		
+		{
+			"id": "29",
+			"judul": "Suara kacer pikat v2 683",
+			"url": "https://ia801007.us.archive.org/7/items/suara-kacer-pikat-v4/suara-kacer-pikat-v2.mp3"
+		},
+
+		
+		{
+			"id": "30",
+			"judul": "Spesial Masteran Terapi Kacer Bakalan   Masteran Terapi Kacer Bisu 590",
+			"url": "https://ia801306.us.archive.org/26/items/SpesialMasteranTerapiKacerBakalanMasteranTerapiKacerBisu/Spesial%20Masteran%20Terapi%20Kacer%20Bakalan%20_%20Masteran%20Terapi%20Kacer%20Bisu.mp3"
+		},
+
+		
+		{
+			"id": "31",
+			"judul": "Suarakacer 1 346",
+			"url": "https://ia801401.us.archive.org/35/items/suarakacer/suarakacer_1.mp3"
+		},
+
+		
+		{
+			"id": "32",
+			"judul": "Suarakacer 2 214",
+			"url": "https://ia801401.us.archive.org/35/items/suarakacer/suarakacer_2.mp3"
+		},
+
+		
+		{
+			"id": "33",
+			"judul": "Suarakacer 28 516",
+			"url": "https://ia801401.us.archive.org/35/items/suarakacer/suarakacer_28.mp3"
+		},
+
+		
+		{
+			"id": "34",
+			"judul": "Suarakacer 3 501",
+			"url": "https://ia801401.us.archive.org/35/items/suarakacer/suarakacer_3.mp3"
+		},
+
+		
+		{
+			"id": "35",
+			"judul": "Suarakacer 4 239",
+			"url": "https://ia801401.us.archive.org/35/items/suarakacer/suarakacer_4.mp3"
+		},
+
+		
+		{
+			"id": "36",
+			"judul": "Suarakacer 6 771",
+			"url": "https://ia801401.us.archive.org/35/items/suarakacer/suarakacer_6.mp3"
+		},
+
+		
+		{
+			"id": "37",
+			"judul": "Suarakacer 7 838",
+			"url": "https://ia801401.us.archive.org/35/items/suarakacer/suarakacer_7.mp3"
+		},
+
+		
+		{
+			"id": "38",
+			"judul": "Kacer pikat 982",
+			"url": "https://ia802301.us.archive.org/2/items/kacer-masteran/kacer-pikat.mp3"
+		},
+
+		
+		{
+			"id": "39",
+			"judul": "Suara burung kacer 836",
+			"url": "https://ia802301.us.archive.org/2/items/kacer-masteran/suara-burung-kacer.mp3"
+		},
+
+		
+		{
+			"id": "40",
+			"judul": "  Suara Masteran Kacer Hercules Pendek Tapi Terasa Complate 213",
+			"url": "https://ia802501.us.archive.org/11/items/dalam-hitungan-menitdijamin-kacer-langsung-tarung-konslet-kacer-ngotot-full-tembakan/-%20Suara%20Masteran%20Kacer%20Hercules%20Pendek%20Tapi%20Terasa%20Complate.mp3"
+		},
+
+		
+		{
+			"id": "41",
+			"judul": "Ampuh Masteran Singkat Kacer Poci Alam  Siap Memberikan Pemanasan Pada Burung Kacer Anda 809",
+			"url": "https://ia802501.us.archive.org/11/items/dalam-hitungan-menitdijamin-kacer-langsung-tarung-konslet-kacer-ngotot-full-tembakan/AMPUH%20Masteran%20SINGKAT%20Kacer%20POCI%20Alam%20%20Siap%20Memberikan%20Pemanasan%20pada%20Burung%20KACER%20anda.mp3"
+		},
+
+		
+		{
+			"id": "42",
+			"judul": "Dua Kacer Berbeda Karakter Durasi Masih Pendekpendek 925",
+			"url": "https://ia802501.us.archive.org/11/items/dalam-hitungan-menitdijamin-kacer-langsung-tarung-konslet-kacer-ngotot-full-tembakan/Dua%20Kacer%20Berbeda%20Karakter%20Durasi%20Masih%20PendekPendek.mp3"
+		},
+
+		
+		{
+			"id": "43",
+			"judul": "Kacer Betina Memanggil Jantan  Dalam Hitungan Detik Langsung Nyautt 356",
+			"url": "https://ia802501.us.archive.org/11/items/dalam-hitungan-menitdijamin-kacer-langsung-tarung-konslet-kacer-ngotot-full-tembakan/Kacer%20Betina%20Memanggil%20Jantan%20%20Dalam%20hitungan%20Detik%20Langsung%20Nyautt.mp3"
+		},
+
+		
+		{
+			"id": "44",
+			"judul": "Kacer Betina Memanggil Kacer Jantan Agar Gacor  Pancingan Kacer Lelet 314",
+			"url": "https://ia802501.us.archive.org/11/items/dalam-hitungan-menitdijamin-kacer-langsung-tarung-konslet-kacer-ngotot-full-tembakan/Kacer%20BETINA%20Memanggil%20Kacer%20JANTAN%20agar%20GACOR%20%20Pancingan%20Kacer%20LELET.mp3"
+		},
+
+		
+		{
+			"id": "45",
+			"judul": "Kacer Dimana Saja Bakalan Ngeplong Gacor Dengan Pancingan Kacer Ini 578",
+			"url": "https://ia802501.us.archive.org/11/items/dalam-hitungan-menitdijamin-kacer-langsung-tarung-konslet-kacer-ngotot-full-tembakan/Kacer%20dimana%20SAJA%20Bakalan%20NGEPLONG%20GACOR%20dengan%20Pancingan%20Kacer%20ini.mp3"
+		},
+
+		
+		{
+			"id": "46",
+			"judul": "Kacer Manapun Dijamin Nyaut Tidak Pakek Lama Dengan Pikat Suara Kacer Betina Ini 805",
+			"url": "https://ia802501.us.archive.org/11/items/dalam-hitungan-menitdijamin-kacer-langsung-tarung-konslet-kacer-ngotot-full-tembakan/KACER%20MANAPUN%20DIJAMIN%20NYAUT%20TIDAK%20PAKEK%20LAMA%20DENGAN%20PIKAT%20SUARA%20KACER%20BETINA%20INI.mp3"
+		},
+
+		
+		{
+			"id": "47",
+			"judul": "Kacer Ngerol Dan Kacer Ngobra Pancingan Ampuh Kacer Tarung (1) 268",
+			"url": "https://ia802501.us.archive.org/11/items/dalam-hitungan-menitdijamin-kacer-langsung-tarung-konslet-kacer-ngotot-full-tembakan/KACER%20NGEROL%20dan%20KACER%20NGOBRA%20PANCINGAN%20ampuh%20KACER%20TARUNG%20%281%29.mp3"
+		},
+
+		
+		{
+			"id": "48",
+			"judul": "Kacer Ngerol Dan Kacer Ngobra Pancingan Ampuh Kacer Tarung 906",
+			"url": "https://ia802501.us.archive.org/11/items/dalam-hitungan-menitdijamin-kacer-langsung-tarung-konslet-kacer-ngotot-full-tembakan/KACER%20NGEROL%20dan%20KACER%20NGOBRA%20PANCINGAN%20ampuh%20KACER%20TARUNG.mp3"
+		},
+
+		
+		{
+			"id": "49",
+			"judul": "Kicau Kacer Santaiterapi Kacer Males Bunyi 124",
+			"url": "https://ia802501.us.archive.org/11/items/dalam-hitungan-menitdijamin-kacer-langsung-tarung-konslet-kacer-ngotot-full-tembakan/Kicau%20Kacer%20santaiterapi%20Kacer%20males%20bunyi.mp3"
+		},
+
+		
+		{
+			"id": "50",
+			"judul": "Masteran Kacer Paling Sukes  Dalam Waktu Sangat Singkat Kacer Lawan Pasti On Dan Emosi 893",
+			"url": "https://ia802501.us.archive.org/11/items/dalam-hitungan-menitdijamin-kacer-langsung-tarung-konslet-kacer-ngotot-full-tembakan/MASTERAN%20KACER%20PALING%20SUKES%20%20Dalam%20Waktu%20Sangat%20Singkat%20Kacer%20Lawan%20Pasti%20On%20dan%20Emosi.mp3"
+		},
+
+		
+		{
+			"id": "51",
+			"judul": "Pancing 30 Detik Saja Kacer Males Bunyi Jadi Respon Gacor Dengan Ocehan Kacer Gacor Pedas Terbaik 254",
+			"url": "https://ia802501.us.archive.org/11/items/dalam-hitungan-menitdijamin-kacer-langsung-tarung-konslet-kacer-ngotot-full-tembakan/Pancing%2030%20DETIK%20SAJA%20Kacer%20MALES%20BUNYI%20jadi%20RESPON%20GACOR%20Dengan%20Ocehan%20Kacer%20GACOR%20pedas%20TERBAIK.mp3"
+		},
+
+		
+		{
+			"id": "52",
+			"judul": "Kicau Master Kacer Vs Muraibatu 122",
+			"url": "https://ia802804.us.archive.org/17/items/kicaumasterkacervsmuraibatu/Kicau%20Master%20Kacer%20Vs%20Muraibatu.mp3"
+		},
+
+		
+		{
+			"id": "53",
+			"judul": "Masteran Kacer Agar Cepat Ngeplong 814",
+			"url": "https://ia802807.us.archive.org/27/items/masterankaceragarcepatngeplong/Masteran%20Kacer%20Agar%20Cepat%20Ngeplong.mp3"
+		},
+
+		
+		{
+			"id": "54",
+			"judul": "Masteran Kacer Juara 1 993",
+			"url": "https://ia802808.us.archive.org/0/items/masterankacerjuara1/Masteran%20Kacer%20Juara%201.mp3"
+		},
+
+		
+		{
+			"id": "55",
+			"judul": "Kacer 11 718",
+			"url": "https://ia802906.us.archive.org/23/items/kacer27/Kacer%2011.mp3"
+		},
+
+		
+		{
+			"id": "56",
+			"judul": "Kacer 15 877",
+			"url": "https://ia802906.us.archive.org/23/items/kacer27/Kacer%2015.mp3"
+		},
+
+		
+		{
+			"id": "57",
+			"judul": "Kacer 16 407",
+			"url": "https://ia802906.us.archive.org/23/items/kacer27/Kacer%2016.mp3"
+		},
+
+		
+		{
+			"id": "58",
+			"judul": "Kacer 18 178",
+			"url": "https://ia802906.us.archive.org/23/items/kacer27/Kacer%2018.mp3"
+		},
+
+		
+		{
+			"id": "59",
+			"judul": "Kacer 2 685",
+			"url": "https://ia802906.us.archive.org/23/items/kacer27/Kacer%202.mp3"
+		},
+
+		
+		{
+			"id": "60",
+			"judul": "Kacer 20 572",
+			"url": "https://ia802906.us.archive.org/23/items/kacer27/Kacer%2020.mp3"
+		},
+
+		
+		{
+			"id": "61",
+			"judul": "Kacer 23 295",
+			"url": "https://ia802906.us.archive.org/23/items/kacer27/Kacer%2023.mp3"
+		},
+
+		
+		{
+			"id": "62",
+			"judul": "Kacer 24 945",
+			"url": "https://ia802906.us.archive.org/23/items/kacer27/Kacer%2024.mp3"
+		},
+
+		
+		{
+			"id": "63",
+			"judul": "Kacer 25 570",
+			"url": "https://ia802906.us.archive.org/23/items/kacer27/Kacer%2025.mp3"
+		},
+
+		
+		{
+			"id": "64",
+			"judul": "Kacer 3 151",
+			"url": "https://ia802906.us.archive.org/23/items/kacer27/Kacer%203.mp3"
+		},
+
+		
+		{
+			"id": "65",
+			"judul": "Kacer 7 155",
+			"url": "https://ia802906.us.archive.org/23/items/kacer27/Kacer%207.mp3"
+		},
+
+		
+		{
+			"id": "66",
+			"judul": "Kacer 9 556",
+			"url": "https://ia802906.us.archive.org/23/items/kacer27/Kacer%209.mp3"
+		},
+
+		
+		{
+			"id": "67",
+			"judul": "Suara Kacer Gacor 731",
+			"url": "https://ia803107.us.archive.org/8/items/suarakacergacor/Suara%20Kacer%20Gacor.mp3"
+		},
+
+		
+		{
+			"id": "68",
+			"judul": "Suara Burung Kacer (1) 646",
+			"url": "https://ia803202.us.archive.org/14/items/kicau-burung-kacer-juara/suara%20burung%20kacer%20%281%29.mp3"
+		},
+
+		
+		{
+			"id": "69",
+			"judul": "Suara Burung Kacer (14) 139",
+			"url": "https://ia803202.us.archive.org/14/items/kicau-burung-kacer-juara/suara%20burung%20kacer%20%2814%29.mp3"
+		},
+
+		
+		{
+			"id": "70",
+			"judul": "Suara Burung Kacer (15) 523",
+			"url": "https://ia803202.us.archive.org/14/items/kicau-burung-kacer-juara/suara%20burung%20kacer%20%2815%29.mp3"
+		},
+
+		
+		{
+			"id": "71",
+			"judul": "Suara Burung Kacer (16) 581",
+			"url": "https://ia803202.us.archive.org/14/items/kicau-burung-kacer-juara/suara%20burung%20kacer%20%2816%29.mp3"
+		},
+
+		
+		{
+			"id": "72",
+			"judul": "Suara Burung Kacer (18) 387",
+			"url": "https://ia803202.us.archive.org/14/items/kicau-burung-kacer-juara/suara%20burung%20kacer%20%2818%29.mp3"
+		},
+
+		
+		{
+			"id": "73",
+			"judul": "Suara Burung Kacer (19) 660",
+			"url": "https://ia803202.us.archive.org/14/items/kicau-burung-kacer-juara/suara%20burung%20kacer%20%2819%29.mp3"
+		},
+
+		
+		{
+			"id": "74",
+			"judul": "Suara Burung Kacer (2) 462",
+			"url": "https://ia803202.us.archive.org/14/items/kicau-burung-kacer-juara/suara%20burung%20kacer%20%282%29.mp3"
+		},
+
+		
+		{
+			"id": "75",
+			"judul": "Suara Burung Kacer (20) 600",
+			"url": "https://ia803202.us.archive.org/14/items/kicau-burung-kacer-juara/suara%20burung%20kacer%20%2820%29.mp3"
+		},
+
+		
+		{
+			"id": "76",
+			"judul": "Suara Burung Kacer (21) 298",
+			"url": "https://ia803202.us.archive.org/14/items/kicau-burung-kacer-juara/suara%20burung%20kacer%20%2821%29.mp3"
+		},
+
+		
+		{
+			"id": "77",
+			"judul": "Suara Burung Kacer (24) 555",
+			"url": "https://ia803202.us.archive.org/14/items/kicau-burung-kacer-juara/suara%20burung%20kacer%20%2824%29.mp3"
+		},
+
+		
+		{
+			"id": "78",
+			"judul": "Suara Burung Kacer (25) 805",
+			"url": "https://ia803202.us.archive.org/14/items/kicau-burung-kacer-juara/suara%20burung%20kacer%20%2825%29.mp3"
+		},
+
+		
+		{
+			"id": "79",
+			"judul": "Suara Burung Kacer (26) 298",
+			"url": "https://ia803202.us.archive.org/14/items/kicau-burung-kacer-juara/suara%20burung%20kacer%20%2826%29.mp3"
+		},
+
+		
+		{
+			"id": "80",
+			"judul": "Suara Burung Kacer (27) 114",
+			"url": "https://ia803202.us.archive.org/14/items/kicau-burung-kacer-juara/suara%20burung%20kacer%20%2827%29.mp3"
+		},
+
+		
+		{
+			"id": "81",
+			"judul": "Suara Burung Kacer (28) 907",
+			"url": "https://ia803202.us.archive.org/14/items/kicau-burung-kacer-juara/suara%20burung%20kacer%20%2828%29.mp3"
+		},
+
+		
+		{
+			"id": "82",
+			"judul": "Suara Burung Kacer (29) 876",
+			"url": "https://ia803202.us.archive.org/14/items/kicau-burung-kacer-juara/suara%20burung%20kacer%20%2829%29.mp3"
+		},
+
+		
+		{
+			"id": "83",
+			"judul": "Suara Burung Kacer (3) 558",
+			"url": "https://ia803202.us.archive.org/14/items/kicau-burung-kacer-juara/suara%20burung%20kacer%20%283%29.mp3"
+		},
+
+		
+		{
+			"id": "84",
+			"judul": "Suara Burung Kacer (30) 257",
+			"url": "https://ia803202.us.archive.org/14/items/kicau-burung-kacer-juara/suara%20burung%20kacer%20%2830%29.mp3"
+		},
+
+		
+		{
+			"id": "85",
+			"judul": "Suara Burung Kacer (32) 575",
+			"url": "https://ia803202.us.archive.org/14/items/kicau-burung-kacer-juara/suara%20burung%20kacer%20%2832%29.mp3"
+		},
+
+		
+		{
+			"id": "86",
+			"judul": "Suara Burung Kacer (33) 893",
+			"url": "https://ia803202.us.archive.org/14/items/kicau-burung-kacer-juara/suara%20burung%20kacer%20%2833%29.mp3"
+		},
+
+		
+		{
+			"id": "87",
+			"judul": "Suara Burung Kacer (39) 981",
+			"url": "https://ia803202.us.archive.org/14/items/kicau-burung-kacer-juara/suara%20burung%20kacer%20%2839%29.mp3"
+		},
+
+		
+		{
+			"id": "88",
+			"judul": "Suara Burung Kacer (4) 575",
+			"url": "https://ia803202.us.archive.org/14/items/kicau-burung-kacer-juara/suara%20burung%20kacer%20%284%29.mp3"
+		},
+
+		
+		{
+			"id": "89",
+			"judul": "Suara Burung Kacer (40) 960",
+			"url": "https://ia803202.us.archive.org/14/items/kicau-burung-kacer-juara/suara%20burung%20kacer%20%2840%29.mp3"
+		},
+
+		
+		{
+			"id": "90",
+			"judul": "Suara Burung Kacer (41) 119",
+			"url": "https://ia803202.us.archive.org/14/items/kicau-burung-kacer-juara/suara%20burung%20kacer%20%2841%29.mp3"
+		},
+
+		
+		{
+			"id": "91",
+			"judul": "Suara Burung Kacer (42) 787",
+			"url": "https://ia803202.us.archive.org/14/items/kicau-burung-kacer-juara/suara%20burung%20kacer%20%2842%29.mp3"
+		},
+
+		
+		{
+			"id": "92",
+			"judul": "Suara Burung Kacer (43) 117",
+			"url": "https://ia803202.us.archive.org/14/items/kicau-burung-kacer-juara/suara%20burung%20kacer%20%2843%29.mp3"
+		},
+
+		
+		{
+			"id": "93",
+			"judul": "Suara Burung Kacer (7) 842",
+			"url": "https://ia803202.us.archive.org/14/items/kicau-burung-kacer-juara/suara%20burung%20kacer%20%287%29.mp3"
+		},
+
+		
+		{
+			"id": "94",
+			"judul": "Suara Burung Kacer (8) 237",
+			"url": "https://ia803202.us.archive.org/14/items/kicau-burung-kacer-juara/suara%20burung%20kacer%20%288%29.mp3"
+		},
+
+		
+		{
+			"id": "95",
+			"judul": "Suara Burung Kacer (9) 812",
+			"url": "https://ia803202.us.archive.org/14/items/kicau-burung-kacer-juara/suara%20burung%20kacer%20%289%29.mp3"
+		},
+
+		
+		{
+			"id": "96",
+			"judul": "Tbol84oct2009 801",
+			"url": "https://ia803205.us.archive.org/28/items/TBOL84Oct2009/TBOL84Oct2009.mp3"
+		},
+
+		
+		{
+			"id": "97",
+			"judul": "Kacer Juara Ngobra Istimewa 376",
+			"url": "https://ia803404.us.archive.org/24/items/kacer-juara-ngobra-istimewa/Kacer%20Juara%20Ngobra%20Istimewa.mp3"
+		},
+
+		
+		{
+			"id": "98",
+			"judul": "Burung Kacer 282",
+			"url": "https://ia804701.us.archive.org/13/items/BurungKacer/Burung%20Kacer.mp3"
+		},
+
+		
+		{
+			"id": "99",
+			"judul": "Kacer masteran 875",
+			"url": "https://ia902301.us.archive.org/2/items/kacer-masteran/kacer-masteran.mp3"
+		},
+
+		
+		{
+			"id": "100",
+			"judul": "Kacer seyseles 434",
+			"url": "https://ia902301.us.archive.org/2/items/kacer-masteran/kacer-seyseles.mp3"
+		},
+
+		
+		{
+			"id": "101",
+			"judul": "Dalam Hitungan Menitdijamin Kacer Langsung Tarung Konsletkacer Ngotot Full Tembakan 853",
+			"url": "https://ia902501.us.archive.org/11/items/dalam-hitungan-menitdijamin-kacer-langsung-tarung-konslet-kacer-ngotot-full-tembakan/DALAM%20HITUNGAN%20MENITdijamin%20kacer%20langsung%20tarung%20konsletKACER%20NGOTOT%20FULL%20TEMBAKAN.mp3"
+		},
+
+		
+		{
+			"id": "102",
+			"judul": "Kacer Betina Memanggil Kacer Jantan Agar Gacor Ngobra Durasi Panjang 695",
+			"url": "https://ia902501.us.archive.org/11/items/dalam-hitungan-menitdijamin-kacer-langsung-tarung-konslet-kacer-ngotot-full-tembakan/kacer%20betina%20memanggil%20kacer%20jantan%20agar%20gacor%20ngobra%20durasi%20panjang.mp3"
+		},
+
+		
+		{
+			"id": "103",
+			"judul": "Kacer Gacor Durasi Pendek 617",
+			"url": "https://ia902501.us.archive.org/11/items/dalam-hitungan-menitdijamin-kacer-langsung-tarung-konslet-kacer-ngotot-full-tembakan/Kacer%20gacor%20durasi%20pendek.mp3"
+		},
+
+		
+		{
+			"id": "104",
+			"judul": "Pancingan Kacer Agar Cepat Emosi  Langsung Bukor Tarung 309",
+			"url": "https://ia902501.us.archive.org/11/items/dalam-hitungan-menitdijamin-kacer-langsung-tarung-konslet-kacer-ngotot-full-tembakan/Pancingan%20Kacer%20Agar%20Cepat%20Emosi%20%20Langsung%20Bukor%20Tarung.mp3"
+		},
+
+		
+		{
+			"id": "105",
+			"judul": "Pancingan Kacer Gacor Plong Plongan Buat Kacer Lain Auto Emosi Buka Ekor Ngobra 988",
+			"url": "https://ia902501.us.archive.org/11/items/dalam-hitungan-menitdijamin-kacer-langsung-tarung-konslet-kacer-ngotot-full-tembakan/Pancingan%20Kacer%20Gacor%20Plong%20Plongan%20Buat%20Kacer%20Lain%20Auto%20Emosi%20Buka%20Ekor%20Ngobra.mp3"
+		},
+
+		
+		{
+			"id": "106",
+			"judul": "Pancingan Suara Kacer Betina Memanggil Kacer Jantan Paling Di Cari Kacer Mania Indonesia 695",
+			"url": "https://ia902501.us.archive.org/11/items/dalam-hitungan-menitdijamin-kacer-langsung-tarung-konslet-kacer-ngotot-full-tembakan/Pancingan%20suara%20kacer%20betina%20memanggil%20kacer%20jantan%20paling%20di%20cari%20kacer%20mania%20Indonesia.mp3"
+		},
+
+		
+		{
+			"id": "107",
+			"judul": "Suara Kacer Betinamemancing Kacer Jantan Yg Macet Bunyi 96kbps 622",
+			"url": "https://ia902501.us.archive.org/11/items/dalam-hitungan-menitdijamin-kacer-langsung-tarung-konslet-kacer-ngotot-full-tembakan/Suara%20kacer%20betinamemancing%20kacer%20jantan%20yg%20macet%20bunyi_96kbps.mp3"
+		},
+
+		
+		{
+			"id": "108",
+			"judul": "Suara Pancingan Kacer Ngeplong Gacor Santai Manggil Lawan  459",
+			"url": "https://ia902501.us.archive.org/11/items/dalam-hitungan-menitdijamin-kacer-langsung-tarung-konslet-kacer-ngotot-full-tembakan/Suara%20Pancingan%20Kacer%20Ngeplong%20Gacor%20Santai%20Manggil%20Lawan%20.mp3"
+		},
+
+		
+		{
+			"id": "109",
+			"judul": "Kacer 1 845",
+			"url": "https://ia902906.us.archive.org/23/items/kacer27/Kacer%201.mp3"
+		},
+
+		
+		{
+			"id": "110",
+			"judul": "Kacer 10 916",
+			"url": "https://ia902906.us.archive.org/23/items/kacer27/Kacer%2010.mp3"
+		},
+
+		
+		{
+			"id": "111",
+			"judul": "Kacer 12 804",
+			"url": "https://ia902906.us.archive.org/23/items/kacer27/Kacer%2012.mp3"
+		},
+
+		
+		{
+			"id": "112",
+			"judul": "Kacer 13 248",
+			"url": "https://ia902906.us.archive.org/23/items/kacer27/Kacer%2013.mp3"
+		},
+
+		
+		{
+			"id": "113",
+			"judul": "Kacer 14 646",
+			"url": "https://ia902906.us.archive.org/23/items/kacer27/Kacer%2014.mp3"
+		},
+
+		
+		{
+			"id": "114",
+			"judul": "Kacer 17 233",
+			"url": "https://ia902906.us.archive.org/23/items/kacer27/Kacer%2017.mp3"
+		},
+
+		
+		{
+			"id": "115",
+			"judul": "Kacer 19 604",
+			"url": "https://ia902906.us.archive.org/23/items/kacer27/Kacer%2019.mp3"
+		},
+
+		
+		{
+			"id": "116",
+			"judul": "Kacer 21 758",
+			"url": "https://ia902906.us.archive.org/23/items/kacer27/Kacer%2021.mp3"
+		},
+
+		
+		{
+			"id": "117",
+			"judul": "Kacer 22 532",
+			"url": "https://ia902906.us.archive.org/23/items/kacer27/Kacer%2022.mp3"
+		},
+
+		
+		{
+			"id": "118",
+			"judul": "Kacer 26 985",
+			"url": "https://ia902906.us.archive.org/23/items/kacer27/Kacer%2026.mp3"
+		},
+
+		
+		{
+			"id": "119",
+			"judul": "Kacer 27 142",
+			"url": "https://ia902906.us.archive.org/23/items/kacer27/Kacer%2027.mp3"
+		},
+
+		
+		{
+			"id": "120",
+			"judul": "Kacer 4 879",
+			"url": "https://ia902906.us.archive.org/23/items/kacer27/Kacer%204.mp3"
+		},
+
+		
+		{
+			"id": "121",
+			"judul": "Kacer 5 512",
+			"url": "https://ia902906.us.archive.org/23/items/kacer27/Kacer%205.mp3"
+		},
+
+		
+		{
+			"id": "122",
+			"judul": "Kacer 6 876",
+			"url": "https://ia902906.us.archive.org/23/items/kacer27/Kacer%206.mp3"
+		},
+
+		
+		{
+			"id": "123",
+			"judul": "Kacer 8 835",
+			"url": "https://ia902906.us.archive.org/23/items/kacer27/Kacer%208.mp3"
+		},
+
+		
+		{
+			"id": "124",
+			"judul": "Suara Burung Kacer (10) 565",
+			"url": "https://ia903202.us.archive.org/14/items/kicau-burung-kacer-juara/suara%20burung%20kacer%20%2810%29.mp3"
+		},
+
+		
+		{
+			"id": "125",
+			"judul": "Suara Burung Kacer (11) 584",
+			"url": "https://ia903202.us.archive.org/14/items/kicau-burung-kacer-juara/suara%20burung%20kacer%20%2811%29.mp3"
+		},
+
+		
+		{
+			"id": "126",
+			"judul": "Suara Burung Kacer (12) 778",
+			"url": "https://ia903202.us.archive.org/14/items/kicau-burung-kacer-juara/suara%20burung%20kacer%20%2812%29.mp3"
+		},
+
+		
+		{
+			"id": "127",
+			"judul": "Suara Burung Kacer (13) 133",
+			"url": "https://ia903202.us.archive.org/14/items/kicau-burung-kacer-juara/suara%20burung%20kacer%20%2813%29.mp3"
+		},
+
+		
+		{
+			"id": "128",
+			"judul": "Suara Burung Kacer (17) 722",
+			"url": "https://ia903202.us.archive.org/14/items/kicau-burung-kacer-juara/suara%20burung%20kacer%20%2817%29.mp3"
+		},
+
+		
+		{
+			"id": "129",
+			"judul": "Suara Burung Kacer (22) 822",
+			"url": "https://ia903202.us.archive.org/14/items/kicau-burung-kacer-juara/suara%20burung%20kacer%20%2822%29.mp3"
+		},
+
+		
+		{
+			"id": "130",
+			"judul": "Suara Burung Kacer (23) 325",
+			"url": "https://ia903202.us.archive.org/14/items/kicau-burung-kacer-juara/suara%20burung%20kacer%20%2823%29.mp3"
+		},
+
+		
+		{
+			"id": "131",
+			"judul": "Suara Burung Kacer (31) 521",
+			"url": "https://ia903202.us.archive.org/14/items/kicau-burung-kacer-juara/suara%20burung%20kacer%20%2831%29.mp3"
+		},
+
+		
+		{
+			"id": "132",
+			"judul": "Suara Burung Kacer (34) 890",
+			"url": "https://ia903202.us.archive.org/14/items/kicau-burung-kacer-juara/suara%20burung%20kacer%20%2834%29.mp3"
+		},
+
+		
+		{
+			"id": "133",
+			"judul": "Suara Burung Kacer (35) 283",
+			"url": "https://ia903202.us.archive.org/14/items/kicau-burung-kacer-juara/suara%20burung%20kacer%20%2835%29.mp3"
+		},
+
+		
+		{
+			"id": "134",
+			"judul": "Suara Burung Kacer (36) 496",
+			"url": "https://ia903202.us.archive.org/14/items/kicau-burung-kacer-juara/suara%20burung%20kacer%20%2836%29.mp3"
+		},
+
+		
+		{
+			"id": "135",
+			"judul": "Suara Burung Kacer (37) 666",
+			"url": "https://ia903202.us.archive.org/14/items/kicau-burung-kacer-juara/suara%20burung%20kacer%20%2837%29.mp3"
+		},
+
+		
+		{
+			"id": "136",
+			"judul": "Suara Burung Kacer (38) 698",
+			"url": "https://ia903202.us.archive.org/14/items/kicau-burung-kacer-juara/suara%20burung%20kacer%20%2838%29.mp3"
+		},
+
+		
+		{
+			"id": "137",
+			"judul": "Suara Burung Kacer (44) 302",
+			"url": "https://ia903202.us.archive.org/14/items/kicau-burung-kacer-juara/suara%20burung%20kacer%20%2844%29.mp3"
+		},
+
+		
+		{
+			"id": "138",
+			"judul": "Suara Burung Kacer (5) 608",
+			"url": "https://ia903202.us.archive.org/14/items/kicau-burung-kacer-juara/suara%20burung%20kacer%20%285%29.mp3"
+		},
+
+		
+		{
+			"id": "139",
+			"judul": "Suara Burung Kacer (6) 174",
+			"url": "https://ia903202.us.archive.org/14/items/kicau-burung-kacer-juara/suara%20burung%20kacer%20%286%29.mp3"
+		},
+
+		
+		{
+			"id": "140",
+			"judul": "Isian Unik Suara Jernih 854",
+			"url": "https://ia903400.us.archive.org/26/items/isian-unik-suara-jernih/Isian%20Unik%20Suara%20Jernih.mp3"
+		}
+
+	]
+}
