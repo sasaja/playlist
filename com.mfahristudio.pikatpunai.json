@@ -1,0 +1,59 @@
+{
+	"update": [{
+		"new_pkg": "com.mfahristudio.pikatpunai",
+		"message": "Please install app updates for your device before."
+	}],
+
+
+	"playlist": [
+		
+		{
+			"id": "1",
+			"judul": "Pikat Burung Punai Durasi 13 Menit 548",
+			"url": "https://ia801001.us.archive.org/3/items/pikat-burung-punai/Pikat%20burung%20punai%20durasi%2013%20menit.mp3"
+		},
+
+		
+		{
+			"id": "2",
+			"judul": "Pikat Burung Punai Durasi 15 Menit 765",
+			"url": "https://ia801001.us.archive.org/3/items/pikat-burung-punai/Pikat%20burung%20punai%20durasi%2015%20menit.mp3"
+		},
+
+		
+		{
+			"id": "3",
+			"judul": "Pikat Burung Punai Durasi 5 Menit 627",
+			"url": "https://ia801001.us.archive.org/3/items/pikat-burung-punai/Pikat%20burung%20punai%20durasi%205%20menit.mp3"
+		},
+
+		
+		{
+			"id": "4",
+			"judul": "Pikat burung terkukur dengan suara jantan 4 kompresan 932",
+			"url": "https://ia801700.us.archive.org/28/items/pikat-burung-terkukur-dengan-suara-jantan-4-kompresan/pikat-burung-terkukur-dengan-suara-jantan-4-kompresan.mp3"
+		},
+
+		
+		{
+			"id": "5",
+			"judul": "E7z3qwgyak 934",
+			"url": "https://cldup.com/e7z3QWgyaK.mp3"
+		},
+
+		
+		{
+			"id": "6",
+			"judul": "I9ehvnjjpr 329",
+			"url": "https://cldup.com/i9ehVnJJPr.mp3"
+		},
+
+		
+		{
+			"id": "7",
+			"judul": "Znfrvuxyk4 831",
+			"url": "https://cldup.com/ZnFRvuXyK4.mp3"
+		}
+
+	]
+}
