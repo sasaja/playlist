@@ -1,159 +1,647 @@
 {
-	"playlist": [{
-			"judul": "03. Ruqyah - Sudais",
-			"url": "https://ruqyahbd.org/files/audio/Ruqyah-Sudais-ruqyahbd.org.mp3"
-		},
+	"update": [{
+		"new_pkg": "com.mfahristudio.audio.ruqyah",
+		"message": "Please install app updates for your device before."
+	}],
+
+
+	"playlist": [
+		
 		{
-			"judul": "04. Ruqyah - Shuraim",
-			"url": "https://ruqyahbd.org/files/audio/Ruqyah-Shuraim-ruqyahbd.org.mp3"
+			"id": "1",
+			"judul": "Curse against magician ruqyahbd.org 112",
+			"url": "https://ruqyahbd.org/files/audio/curse-against-magician-ruqyahbd.org.mp3"
 		},
+
+		
 		{
-			"judul": "05. Ruqyah - Ikhlas Falaq Nas",
+			"id": "2",
+			"judul": "Ruqyah 3kul ruqyahbd.org 223",
 			"url": "https://ruqyahbd.org/files/audio/Ruqyah-3Kul-ruqyahbd.org.mp3"
 		},
+
+		
 		{
-			"judul": "06. Ruqyah - 8 surah",
+			"id": "3",
+			"judul": "Ruqyah 8surah ruqyahbd.org 685",
 			"url": "https://ruqyahbd.org/files/audio/Ruqyah-8surah-ruqyahbd.org.mp3"
 		},
+
+		
 		{
-			"judul": "07. Ruqyah-Ayatul Kursi",
-			"url": "https://ruqyahbd.org/files/audio/Ruqyah-AyatulKursi-ruqyahbd.org.mp3"
-		},
-		{
-			"judul": "08. Ruqyah - AhmadAjmy",
+			"id": "4",
+			"judul": "Ruqyah ahmadajmy ruqyahbd.org 795",
 			"url": "https://ruqyahbd.org/files/audio/Ruqyah-AhmadAjmy-ruqyahbd.org.mp3"
 		},
+
+		
 		{
-			"judul": "09. Ruqyah - Evil Eye",
-			"url": "https://ruqyahbd.org/files/audio/Ruqyah-EvilEye-ruqyahbd.org.mp3"
+			"id": "5",
+			"judul": "Ruqyah ayatulkursi ruqyahbd.org 476",
+			"url": "https://ruqyahbd.org/files/audio/Ruqyah-AyatulKursi-ruqyahbd.org.mp3"
 		},
+
+		
 		{
-			"judul": "10. Ruqyah - Eye & Hasad (Hibshi)",
-			"url": "https://ruqyahbd.org/files/audio/Ruqyah-EyeHasad-ruqyahbd.org.mp3"
-		},
-		{
-			"judul": "11. Ruqyah - Sihr & Mass",
-			"url": "https://ruqyahbd.org/files/audio/Ruqyah-Sihr-Mass-ruqyahbd.org.mp3"
-		},
-		{
-			"judul": "12. Ruqyah - Sihr (Hibshi)",
-			"url": "https://ruqyahbd.org/files/audio/Ruqyah-EyeHasad-ruqyahbd.org.mp3"
-		},
-		{
-			"judul": "13. Ruqyah - Surah Zilzal to Nas",
-			"url": "https://ruqyahbd.org/files/audio/Sura-Zilzal-to-Nas-ruqyahbd.org.mp3"
-		},
-		{
-			"judul": "14. Ruqyah - Zina - Short",
-			"url": "https://ruqyahbd.org/files/audio/Ruqyah-Zina-Short-ruqyahbd.org.mp3"
-		},
-		{
-			"judul": "15. Ruqyah - Zina & Fahisha",
-			"url": "https://ruqyahbd.org/files/audio/Ruqyah-Zina-ruqyahbd.org.mp3"
-		},
-		{
-			"judul": "16. Ruqyah - Azan",
-			"url": "https://ruqyahbd.org/files/audio/Ruqyah-Azan-ruqyahbd.org.mp3"
-		},
-		{
-			"judul": "17. Ruqyah - Azan - one",
+			"id": "6",
+			"judul": "Ruqyah azan1 ruqyahbd.org 502",
 			"url": "https://ruqyahbd.org/files/audio/Ruqyah-Azan1-ruqyahbd.org.mp3"
 		},
+
+		
 		{
-			"judul": "18. Ruqyah - Harq",
-			"url": "https://ruqyahbd.org/files/audio/Ruqyah-Harq-ruqyahbd.org.mp3"
+			"id": "7",
+			"judul": "Ruqyah azan ruqyahbd.org 594",
+			"url": "https://ruqyahbd.org/files/audio/Ruqyah-Azan-ruqyahbd.org.mp3"
 		},
+
+		
 		{
-			"judul": "19. Ruqyah - Harq - long",
-			"url": "https://ruqyahbd.org/files/audio/Ruqyah-Harq-long-ruqyahbd.org.mp3"
+			"id": "8",
+			"judul": "Ruqyah evileye ruqyahbd.org 447",
+			"url": "https://ruqyahbd.org/files/audio/Ruqyah-EvilEye-ruqyahbd.org.mp3"
 		},
+
+		
 		{
-			"judul": "20. Ruqyah - Harq - Shuraim",
-			"url": "https://ruqyahbd.org/files/audio/Ruqyah-Harq-Shuraim-ruqyahbd.org.mp3"
+			"id": "9",
+			"judul": "Ruqyah eyehasad ruqyahbd.org 714",
+			"url": "https://ruqyahbd.org/files/audio/Ruqyah-EyeHasad-ruqyahbd.org.mp3"
 		},
+
+		
 		{
-			"judul": "21. Ruqyah - Ghamidi (short)",
-			"url": "https://ruqyahbd.org/files/audio/Ruqyah-Ghamidi-ruqyahbd.org.mp3"
+			"id": "10",
+			"judul": "Ruqyah eyehasad ruqyahbd.org 171",
+			"url": "https://ruqyahbd.org/files/audio/Ruqyah-EyeHasad-ruqyahbd.org.mp3"
 		},
+
+		
 		{
-			"judul": "22. Ruqyah - Hashimi (short ruqyah)",
-			"url": "https://ruqyahbd.org/files/audio/Ruqyah-Hashimi-ruqyahbd.org.mp3"
-		},
-		{
-			"judul": "23. Ruqyah - Hibshi (mukhtasar)",
-			"url": "https://ruqyahbd.org/files/audio/Ruqyah-Hibshi-Mukhtasar-ruqyahbd.org.mp3"
-		},
-		{
-			"judul": "24. Ruqya - Hudyfi",
-			"url": "https://ruqyahbd.org/files/audio/Ruqyah-Hujaifi-ruqyahbd.org.mp3"
-		},
-		{
-			"judul": "25. Ruqyah - Khalid Hibshi",
-			"url": "https://ruqyahbd.org/files/audio/Ruqyah-KhalidHibshi-ruqyahbd.org.mp3"
-		},
-		{
-			"judul": "26. Ruqyah - Mufti Junaid CD-1",
-			"url": "https://ruqyahbd.org/files/audio/Ruqyah-JunaidCD1-ruqyahbd.org.mp3"
-		},
-		{
-			"judul": "27. Ruqyah - Idrees Abkar",
-			"url": "https://ruqyahbd.org/files/audio/Ruqyah-IdreesAbkar-ruqyahbd.org.mp3"
-		},
-		{
-			"judul": "28. Ruqyah - Khuruj - Short",
-			"url": "https://ruqyahbd.org/files/audio/Ruqyah-Khuruj-Short-ruqyahbd.org.mp3"
-		},
-		{
-			"judul": "29. Ruqyah - Khuruj",
-			"url": "https://ruqyahbd.org/files/audio/Ruqyah-Khuruj-ruqyahbd.org.mp3"
-		},
-		{
-			"judul": "30. Ruqyah - Minshawi",
-			"url": "https://ruqyahbd.org/files/audio/Ruqyah-Manshawi-ruqyahbd.org.mp3"
-		},
-		{
-			"judul": "31. Ruqyah - Majid Az-Zamil",
-			"url": "https://ruqyahbd.org/files/audio/Ruqyah-MajidZamil-ruqyahbd.org.mp3"
-		},
-		{
-			"judul": "32. Ruqyah - Mishary",
-			"url": "https://ruqyahbd.org/files/audio/Ruqyah-Mishary-ruqyahbd.org.mp3"
-		},
-		{
-			"judul": "33. Ruqyah - Muhaisini",
-			"url": "https://ruqyahbd.org/files/audio/Ruqyah-Muhaisini-ruqyahbd.org.mp3"
-		},
-		{
-			"judul": "34. Surat Taghabun - by Sheikh Sudais",
-			"url": "https://ruqyahbd.org/files/audio/SuraTaghabun-ruqyahbd.org.mp3"
-		},
-		{
-			"judul": "35. Surah Al-Baqara - by sudais",
-			"url": "https://ruqyahbd.org/files/audio/Surah-Baqara-by-Sudais-ruqyahbd.org.mp3"
-		},
-		{
-			"judul": "36. Surah Al-Baqara - by hujaifi",
-			"url": "https://ruqyahbd.org/files/audio/Surah-Baqara-by-Hujaifi-ruqyahbd.org.mp3"
-		},
-		{
-			"judul": "37. Ruqyah - Shifa Sakinah",
-			"url": "https://ruqyahbd.org/files/audio/Ruqyah-Shifa-Sakina-ruqyahbd.org.mp3"
-		},
-		{
-			"judul": "38. Ruqyah - with Strong Force",
-			"url": "https://ruqyahbd.org/files/audio/Ruqyah-WithStrongForce-ruqyahbd.org.mp3"
-		},
-		{
-			"judul": "39. Ruqyah - Furqan23",
+			"id": "11",
+			"judul": "Ruqyah furqan23 ruqyahbd.org 875",
 			"url": "https://ruqyahbd.org/files/audio/Ruqyah-Furqan23-ruqyahbd.org.mp3"
 		},
+
+		
 		{
-			"judul": "40. Ruqyah - Ghamidi",
+			"id": "12",
+			"judul": "Ruqyah ghamidi long ruqyahbd.org 209",
 			"url": "https://ruqyahbd.org/files/audio/Ruqyah-ghamidi-long-ruqyahbd.org.mp3"
 		},
+
+		
 		{
-			"judul": "41. Curse Against Magician",
-			"url": "https://ruqyahbd.org/files/audio/curse-against-magician-ruqyahbd.org.mp3"
+			"id": "13",
+			"judul": "Ruqyah ghamidi ruqyahbd.org 762",
+			"url": "https://ruqyahbd.org/files/audio/Ruqyah-Ghamidi-ruqyahbd.org.mp3"
+		},
+
+		
+		{
+			"id": "14",
+			"judul": "Ruqyah harq long ruqyahbd.org 973",
+			"url": "https://ruqyahbd.org/files/audio/Ruqyah-Harq-long-ruqyahbd.org.mp3"
+		},
+
+		
+		{
+			"id": "15",
+			"judul": "Ruqyah harq ruqyahbd.org 692",
+			"url": "https://ruqyahbd.org/files/audio/Ruqyah-Harq-ruqyahbd.org.mp3"
+		},
+
+		
+		{
+			"id": "16",
+			"judul": "Ruqyah harq shuraim ruqyahbd.org 160",
+			"url": "https://ruqyahbd.org/files/audio/Ruqyah-Harq-Shuraim-ruqyahbd.org.mp3"
+		},
+
+		
+		{
+			"id": "17",
+			"judul": "Ruqyah hashimi ruqyahbd.org 462",
+			"url": "https://ruqyahbd.org/files/audio/Ruqyah-Hashimi-ruqyahbd.org.mp3"
+		},
+
+		
+		{
+			"id": "18",
+			"judul": "Ruqyah hibshi mukhtasar ruqyahbd.org 794",
+			"url": "https://ruqyahbd.org/files/audio/Ruqyah-Hibshi-Mukhtasar-ruqyahbd.org.mp3"
+		},
+
+		
+		{
+			"id": "19",
+			"judul": "Ruqyah hujaifi ruqyahbd.org 629",
+			"url": "https://ruqyahbd.org/files/audio/Ruqyah-Hujaifi-ruqyahbd.org.mp3"
+		},
+
+		
+		{
+			"id": "20",
+			"judul": "Ruqyah idreesabkar ruqyahbd.org 726",
+			"url": "https://ruqyahbd.org/files/audio/Ruqyah-IdreesAbkar-ruqyahbd.org.mp3"
+		},
+
+		
+		{
+			"id": "21",
+			"judul": "Ruqyah junaidcd1 ruqyahbd.org 614",
+			"url": "https://ruqyahbd.org/files/audio/Ruqyah-JunaidCD1-ruqyahbd.org.mp3"
+		},
+
+		
+		{
+			"id": "22",
+			"judul": "Ruqyah khalidhibshi ruqyahbd.org 471",
+			"url": "https://ruqyahbd.org/files/audio/Ruqyah-KhalidHibshi-ruqyahbd.org.mp3"
+		},
+
+		
+		{
+			"id": "23",
+			"judul": "Ruqyah khuruj ruqyahbd.org 812",
+			"url": "https://ruqyahbd.org/files/audio/Ruqyah-Khuruj-ruqyahbd.org.mp3"
+		},
+
+		
+		{
+			"id": "24",
+			"judul": "Ruqyah khuruj short ruqyahbd.org 163",
+			"url": "https://ruqyahbd.org/files/audio/Ruqyah-Khuruj-Short-ruqyahbd.org.mp3"
+		},
+
+		
+		{
+			"id": "25",
+			"judul": "Ruqyah majidzamil ruqyahbd.org 632",
+			"url": "https://ruqyahbd.org/files/audio/Ruqyah-MajidZamil-ruqyahbd.org.mp3"
+		},
+
+		
+		{
+			"id": "26",
+			"judul": "Ruqyah manshawi ruqyahbd.org 951",
+			"url": "https://ruqyahbd.org/files/audio/Ruqyah-Manshawi-ruqyahbd.org.mp3"
+		},
+
+		
+		{
+			"id": "27",
+			"judul": "Ruqyah mishary ruqyahbd.org 158",
+			"url": "https://ruqyahbd.org/files/audio/Ruqyah-Mishary-ruqyahbd.org.mp3"
+		},
+
+		
+		{
+			"id": "28",
+			"judul": "Ruqyah muhaisini ruqyahbd.org 978",
+			"url": "https://ruqyahbd.org/files/audio/Ruqyah-Muhaisini-ruqyahbd.org.mp3"
+		},
+
+		
+		{
+			"id": "29",
+			"judul": "Ruqyah shifa sakina ruqyahbd.org 684",
+			"url": "https://ruqyahbd.org/files/audio/Ruqyah-Shifa-Sakina-ruqyahbd.org.mp3"
+		},
+
+		
+		{
+			"id": "30",
+			"judul": "Ruqyah shuraim ruqyahbd.org 933",
+			"url": "https://ruqyahbd.org/files/audio/Ruqyah-Shuraim-ruqyahbd.org.mp3"
+		},
+
+		
+		{
+			"id": "31",
+			"judul": "Ruqyah sihr mass ruqyahbd.org 526",
+			"url": "https://ruqyahbd.org/files/audio/Ruqyah-Sihr-Mass-ruqyahbd.org.mp3"
+		},
+
+		
+		{
+			"id": "32",
+			"judul": "Ruqyah sudais ruqyahbd.org 852",
+			"url": "https://ruqyahbd.org/files/audio/Ruqyah-Sudais-ruqyahbd.org.mp3"
+		},
+
+		
+		{
+			"id": "33",
+			"judul": "Ruqyah withstrongforce ruqyahbd.org 459",
+			"url": "https://ruqyahbd.org/files/audio/Ruqyah-WithStrongForce-ruqyahbd.org.mp3"
+		},
+
+		
+		{
+			"id": "34",
+			"judul": "Ruqyah zina ruqyahbd.org 527",
+			"url": "https://ruqyahbd.org/files/audio/Ruqyah-Zina-ruqyahbd.org.mp3"
+		},
+
+		
+		{
+			"id": "35",
+			"judul": "Ruqyah zina short ruqyahbd.org 811",
+			"url": "https://ruqyahbd.org/files/audio/Ruqyah-Zina-Short-ruqyahbd.org.mp3"
+		},
+
+		
+		{
+			"id": "36",
+			"judul": "Surah baqara by hujaifi ruqyahbd.org 356",
+			"url": "https://ruqyahbd.org/files/audio/Surah-Baqara-by-Hujaifi-ruqyahbd.org.mp3"
+		},
+
+		
+		{
+			"id": "37",
+			"judul": "Surah baqara by sudais ruqyahbd.org 440",
+			"url": "https://ruqyahbd.org/files/audio/Surah-Baqara-by-Sudais-ruqyahbd.org.mp3"
+		},
+
+		
+		{
+			"id": "38",
+			"judul": "Surataghabun ruqyahbd.org 149",
+			"url": "https://ruqyahbd.org/files/audio/SuraTaghabun-ruqyahbd.org.mp3"
+		},
+
+		
+		{
+			"id": "39",
+			"judul": "Sura zilzal to nas ruqyahbd.org 480",
+			"url": "https://ruqyahbd.org/files/audio/Sura-Zilzal-to-Nas-ruqyahbd.org.mp3"
+		},
+
+		
+		{
+			"id": "40",
+			"judul": "Al Ruqyah Al Shariah Full By Sheikh Idrees Abkar 285",
+			"url": "https://ia601203.us.archive.org/13/items/RuqyahShariahRuqyaTreatment/Al%20Ruqyah%20Al%20Shariah%20Full%20by%20Sheikh%20Idrees%20Abkar.mp3"
+		},
+
+		
+		{
+			"id": "41",
+			"judul": "Ayat Sakinah   En'am 13 696",
+			"url": "https://ia801203.us.archive.org/13/items/RuqyahShariahRuqyaTreatment/Ayat%20sakinah%20-%20En%27am%2013.mp3"
+		},
+
+		
+		{
+			"id": "42",
+			"judul": "Ayat Sakinah   En'am 96 620",
+			"url": "https://ia601203.us.archive.org/13/items/RuqyahShariahRuqyaTreatment/Ayat%20sakinah%20-%20En%27am%2096.mp3"
+		},
+
+		
+		{
+			"id": "43",
+			"judul": "Ayat Sakinah   Ar rad 28 576",
+			"url": "https://ia801203.us.archive.org/13/items/RuqyahShariahRuqyaTreatment/Ayat%20sakinah%20-%20ar-rad%2028.mp3"
+		},
+
+		
+		{
+			"id": "44",
+			"judul": "Ayat Sakinah   Fet'h 4 187",
+			"url": "https://ia601203.us.archive.org/13/items/RuqyahShariahRuqyaTreatment/Ayat%20sakinah%20-%20fet%27h%204.mp3"
+		},
+
+		
+		{
+			"id": "45",
+			"judul": "Ayat Sakinah   Fusilet 44 283",
+			"url": "https://ia801203.us.archive.org/13/items/RuqyahShariahRuqyaTreatment/Ayat%20sakinah%20-%20fusilet%2044.mp3"
+		},
+
+		
+		{
+			"id": "46",
+			"judul": "Ayat Sakinah   Isra 82 251",
+			"url": "https://ia801203.us.archive.org/13/items/RuqyahShariahRuqyaTreatment/Ayat%20sakinah%20-%20isra%2082.mp3"
+		},
+
+		
+		{
+			"id": "47",
+			"judul": "Ayat Sakinah   Junus 67 380",
+			"url": "https://ia601203.us.archive.org/13/items/RuqyahShariahRuqyaTreatment/Ayat%20sakinah%20-%20junus%2067.mp3"
+		},
+
+		
+		{
+			"id": "48",
+			"judul": "Ayat Sakinah   Shuara 80 112",
+			"url": "https://ia601203.us.archive.org/13/items/RuqyahShariahRuqyaTreatment/Ayat%20sakinah%20-%20shuara%2080.mp3"
+		},
+
+		
+		{
+			"id": "49",
+			"judul": "Ayat Sakinah   Teube 26 801",
+			"url": "https://ia801203.us.archive.org/13/items/RuqyahShariahRuqyaTreatment/Ayat%20sakinah%20-%20teube%2026.mp3"
+		},
+
+		
+		{
+			"id": "50",
+			"judul": "Ayat Sakinah   Teube 57 602",
+			"url": "https://ia801203.us.archive.org/13/items/RuqyahShariahRuqyaTreatment/Ayat%20sakinah%20-%20teube%2057.mp3"
+		},
+
+		
+		{
+			"id": "51",
+			"judul": "Famous Ayats   0. Eaudhu Besmelah 365",
+			"url": "https://ia801203.us.archive.org/13/items/RuqyahShariahRuqyaTreatment/Famous%20Ayats%20-%200.%20Eaudhu%20Besmelah.mp3"
+		},
+
+		
+		{
+			"id": "52",
+			"judul": "Famous Ayats   1.sulejman 256",
+			"url": "https://ia601203.us.archive.org/13/items/RuqyahShariahRuqyaTreatment/Famous%20Ayats%20-%201.Sulejman.mp3"
+		},
+
+		
+		{
+			"id": "53",
+			"judul": "Famous Ayats   2.besmelah 100",
+			"url": "https://ia801203.us.archive.org/13/items/RuqyahShariahRuqyaTreatment/Famous%20Ayats%20-%202.Besmelah.mp3"
+		},
+
+		
+		{
+			"id": "54",
+			"judul": "Famous Ayats   3.kursi 948",
+			"url": "https://ia801203.us.archive.org/13/items/RuqyahShariahRuqyaTreatment/Famous%20Ayats%20-%203.Kursi.mp3"
+		},
+
+		
+		{
+			"id": "55",
+			"judul": "Famous Ayats   5.besmelah 930",
+			"url": "https://ia801203.us.archive.org/13/items/RuqyahShariahRuqyaTreatment/Famous%20Ayats%20-%205.Besmelah.mp3"
+		},
+
+		
+		{
+			"id": "56",
+			"judul": "Famous Ayats   6.wise 565",
+			"url": "https://ia801203.us.archive.org/13/items/RuqyahShariahRuqyaTreatment/Famous%20Ayats%20-%206.Wise.mp3"
+		},
+
+		
+		{
+			"id": "57",
+			"judul": "Famous Ayats   7.besmelah 562",
+			"url": "https://ia601203.us.archive.org/13/items/RuqyahShariahRuqyaTreatment/Famous%20Ayats%20-%207.Besmelah.mp3"
+		},
+
+		
+		{
+			"id": "58",
+			"judul": "Famous Ayats   8.esmaul Husne 140",
+			"url": "https://ia801203.us.archive.org/13/items/RuqyahShariahRuqyaTreatment/Famous%20Ayats%20-%208.Esmaul%20Husne.mp3"
+		},
+
+		
+		{
+			"id": "59",
+			"judul": "Rukje   Ajetet E Magjis Dhe Sihrit 237",
+			"url": "https://ia801203.us.archive.org/13/items/RuqyahShariahRuqyaTreatment/RUKJE%20-%20Ajetet%20e%20Magjis%20dhe%20Sihrit.mp3"
+		},
+
+		
+		{
+			"id": "60",
+			"judul": "Rouqia   Abo alyah Aljawarani 2 819",
+			"url": "https://ia801203.us.archive.org/13/items/RuqyahShariahRuqyaTreatment/Rouqia%20-%20Abo-Alyah%20Aljawarani%202.mp3"
+		},
+
+		
+		{
+			"id": "61",
+			"judul": "Rouqia   Ahmad Al ajmy 410",
+			"url": "https://ia601203.us.archive.org/13/items/RuqyahShariahRuqyaTreatment/Rouqia%20-%20Ahmad%20Al-Ajmy.mp3"
+		},
+
+		
+		{
+			"id": "62",
+			"judul": "Rouqia   Ahmed Al blehed 457",
+			"url": "https://ia801203.us.archive.org/13/items/RuqyahShariahRuqyaTreatment/Rouqia%20-%20Ahmed%20Al-Blehed.mp3"
+		},
+
+		
+		{
+			"id": "63",
+			"judul": "Rouqia   Khaled Al qahtani 687",
+			"url": "https://ia801203.us.archive.org/13/items/RuqyahShariahRuqyaTreatment/Rouqia%20-%20Khaled%20Al-Qahtani.mp3"
+		},
+
+		
+		{
+			"id": "64",
+			"judul": "Rouqia   Mishary Alafasi 264",
+			"url": "https://ia801203.us.archive.org/13/items/RuqyahShariahRuqyaTreatment/Rouqia%20-%20Mishary%20Alafasi.mp3"
+		},
+
+		
+		{
+			"id": "65",
+			"judul": "Rouqia   Nabil Al awadi 179",
+			"url": "https://ia801203.us.archive.org/13/items/RuqyahShariahRuqyaTreatment/Rouqia%20-%20Nabil%20Al-Awadi.mp3"
+		},
+
+		
+		{
+			"id": "66",
+			"judul": "Rouqia   Nasser Alqatami 204",
+			"url": "https://ia801203.us.archive.org/13/items/RuqyahShariahRuqyaTreatment/Rouqia%20-%20Nasser%20Alqatami.mp3"
+		},
+
+		
+		{
+			"id": "67",
+			"judul": "Rouqia   Saad Al ghamdi 174",
+			"url": "https://ia601203.us.archive.org/13/items/RuqyahShariahRuqyaTreatment/Rouqia%20-%20Saad%20Al-Ghamdi.mp3"
+		},
+
+		
+		{
+			"id": "68",
+			"judul": "Rouqia   Yasser Al dosari 986",
+			"url": "https://ia801203.us.archive.org/13/items/RuqyahShariahRuqyaTreatment/Rouqia%20-%20Yasser%20Al-Dosari.mp3"
+		},
+
+		
+		{
+			"id": "69",
+			"judul": "Rouqia  Mohamed Aljawarani 429",
+			"url": "https://ia601203.us.archive.org/13/items/RuqyahShariahRuqyaTreatment/Rouqia-%20Mohamed%20Aljawarani.mp3"
+		},
+
+		
+		{
+			"id": "70",
+			"judul": "Ruqyah Treatment   For Envy (Hasad)   By Al Afasay 973",
+			"url": "https://ia801203.us.archive.org/13/items/RuqyahShariahRuqyaTreatment/Ruqyah%20Treatment%20-%20For%20Envy%20%28Hasad%29%20-%20by%20Al%20Afasay.mp3"
+		},
+
+		
+		{
+			"id": "71",
+			"judul": "Ruqyah Treatment   For Jewish Jinn 625",
+			"url": "https://ia801203.us.archive.org/13/items/RuqyahShariahRuqyaTreatment/Ruqyah%20Treatment%20-%20For%20Jewish%20Jinn.mp3"
+		},
+
+		
+		{
+			"id": "72",
+			"judul": "Ruqyah Treatment   Surah Al Fath (48) Verses 1   9 728",
+			"url": "https://ia801203.us.archive.org/13/items/RuqyahShariahRuqyaTreatment/Ruqyah%20Treatment%20-%20Surah%20Al%20Fath%20%2848%29%20verses%201%20-%209.mp3"
+		},
+
+		
+		{
+			"id": "73",
+			"judul": "Ruqyah Treatment   Yahya Hawa   Ayat Al kursi 494",
+			"url": "https://ia801203.us.archive.org/13/items/RuqyahShariahRuqyaTreatment/Ruqyah%20Treatment%20-%20Yahya%20Hawa%20-%20Ayat%20Al-Kursi.mp3"
+		},
+
+		
+		{
+			"id": "74",
+			"judul": "Ruqyah Treatment   Yahya Hawa   Surah Saffat 873",
+			"url": "https://ia801203.us.archive.org/13/items/RuqyahShariahRuqyaTreatment/Ruqyah%20Treatment%20-%20Yahya%20Hawa%20-%20Surah%20Saffat.mp3"
+		},
+
+		
+		{
+			"id": "75",
+			"judul": "Ruqyah Treatment   Yahya Hawaa Audio 565",
+			"url": "https://ia801203.us.archive.org/13/items/RuqyahShariahRuqyaTreatment/Ruqyah%20Treatment%20-%20Yahya%20Hawaa%20Audio.mp3"
+		},
+
+		
+		{
+			"id": "76",
+			"judul": "Ruqyah Treatment   By Luhaidan 308",
+			"url": "https://ia801203.us.archive.org/13/items/RuqyahShariahRuqyaTreatment/Ruqyah%20Treatment%20-%20by%20Luhaidan.mp3"
+		},
+
+		
+		{
+			"id": "77",
+			"judul": "Ruqyah Treatment   By Muhammad Al mohaisany  672",
+			"url": "https://ia601203.us.archive.org/13/items/RuqyahShariahRuqyaTreatment/Ruqyah%20Treatment%20-%20by%20Muhammad%20Al-Mohaisany%20.mp3"
+		},
+
+		
+		{
+			"id": "78",
+			"judul": "Ruqyah Treatment   Using The Hajj Talbiya 767",
+			"url": "https://ia601203.us.archive.org/13/items/RuqyahShariahRuqyaTreatment/Ruqyah%20Treatment%20-%20using%20the%20Hajj%20Talbiya.mp3"
+		},
+
+		
+		{
+			"id": "79",
+			"judul": "Ruqyah Treatment   Using The Muqatta'at 333",
+			"url": "https://ia801203.us.archive.org/13/items/RuqyahShariahRuqyaTreatment/Ruqyah%20Treatment%20-%20using%20the%20Muqatta%27at.mp3"
+		},
+
+		
+		{
+			"id": "80",
+			"judul": "Ruqyah Treatment For Christian Jinn 389",
+			"url": "https://ia801203.us.archive.org/13/items/RuqyahShariahRuqyaTreatment/Ruqyah%20Treatment%20for%20Christian%20Jinn.mp3"
+		},
+
+		
+		{
+			"id": "81",
+			"judul": "Ruqyah Treatment For Rizq 601",
+			"url": "https://ia601203.us.archive.org/13/items/RuqyahShariahRuqyaTreatment/Ruqyah%20Treatment%20for%20Rizq.mp3"
+		},
+
+		
+		{
+			"id": "82",
+			"judul": "Ruqyah Treatment For Deceptive Jinn 873",
+			"url": "https://ia601203.us.archive.org/13/items/RuqyahShariahRuqyaTreatment/Ruqyah%20Treatment%20for%20deceptive%20jinn.mp3"
+		},
+
+		
+		{
+			"id": "83",
+			"judul": "Ruqyah Treatment For Magicians Plots   Plans 753",
+			"url": "https://ia801203.us.archive.org/13/items/RuqyahShariahRuqyaTreatment/Ruqyah%20Treatment%20for%20magicians%20plots%20_%20plans.mp3"
+		},
+
+		
+		{
+			"id": "84",
+			"judul": "Ruqyah Treatment For Mountainous Jinn 256",
+			"url": "https://ia801203.us.archive.org/13/items/RuqyahShariahRuqyaTreatment/Ruqyah%20Treatment%20for%20mountainous%20jinn.mp3"
+		},
+
+		
+		{
+			"id": "85",
+			"judul": "Ruqyah Treatment For Repentant Jinn 672",
+			"url": "https://ia801203.us.archive.org/13/items/RuqyahShariahRuqyaTreatment/Ruqyah%20Treatment%20for%20repentant%20jinn.mp3"
+		},
+
+		
+		{
+			"id": "86",
+			"judul": "Ruqyah Treatment For Star Magic 810",
+			"url": "https://ia601203.us.archive.org/13/items/RuqyahShariahRuqyaTreatment/Ruqyah%20Treatment%20for%20star%20magic.mp3"
+		},
+
+		
+		{
+			"id": "87",
+			"judul": "Ruyah Treatment For Zina Type Jinn 132",
+			"url": "https://ia601203.us.archive.org/13/items/RuqyahShariahRuqyaTreatment/Ruyah%20Treatment%20for%20Zina%20type%20Jinn.mp3"
+		},
+
+		
+		{
+			"id": "88",
+			"judul": "Ruyah Treatment For Flight Possession 384",
+			"url": "https://ia801203.us.archive.org/13/items/RuqyahShariahRuqyaTreatment/Ruyah%20Treatment%20for%20flight%20possession.mp3"
+		},
+
+		
+		{
+			"id": "89",
+			"judul": "Surah 002 Al baqarah   Reciter Idrees Abkar 151",
+			"url": "https://ia801203.us.archive.org/13/items/RuqyahShariahRuqyaTreatment/Surah%20002%20Al-Baqarah%20-%20Reciter%20Idrees%20Abkar.mp3"
+		},
+
+		
+		{
+			"id": "90",
+			"judul": "Surah 002 Al baqarah   Reciter Maher Al muaiqaly 240",
+			"url": "https://ia801203.us.archive.org/13/items/RuqyahShariahRuqyaTreatment/Surah%20002%20Al-Baqarah%20-%20Reciter%20Maher%20al-Muaiqaly.mp3"
+		},
+
+		
+		{
+			"id": "91",
+			"judul": "Surah 002 Al baqarah   Reciter Mishary Rashi Al afasy 451",
+			"url": "https://ia801203.us.archive.org/13/items/RuqyahShariahRuqyaTreatment/Surah%20002%20Al-Baqarah%20-%20Reciter%20Mishary%20Rashi%20al-Afasy.mp3"
 		}
+
 	]
 }
