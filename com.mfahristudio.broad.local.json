@@ -10,28 +10,74 @@
 
 	"playlist": [
 		
-		
 		{
 			"id": "1",
-			"judul": "Dj Lagi Syantik 635",
-			"url": "https://ia803101.us.archive.org/10/items/djremixdangdut/DJ%20Lagi%20Syantik.mp3"
+			"judul": "Peterpan - Album Alexandria - 01 Tak Bisakah 870",
+			"url": "https://ia801401.us.archive.org/3/items/peterpan-alexandria-ost/01%20Tak%20Bisakah.mp3"
 		},
 
 		
 		{
 			"id": "2",
-			"judul": "Dj Karna Su Sayang 955",
-			"url": "https://ia903101.us.archive.org/10/items/djremixdangdut/DJ%20Karna%20Su%20Sayang.mp3"
+			"judul": "Peterpan - Album Alexandria - 02 Jauh Mimpiku 541",
+			"url": "https://ia801401.us.archive.org/3/items/peterpan-alexandria-ost/02%20Jauh%20Mimpiku.mp3"
 		},
 
 		
 		{
 			"id": "3",
-			"judul": "Dj Despacito 662",
-			"url": "https://ia903101.us.archive.org/10/items/djremixdangdut/DJ%20Despacito.mp3"
-		}
+			"judul": "Peterpan - Album Alexandria - 03 Membebaniku 120",
+			"url": "https://ia801401.us.archive.org/3/items/peterpan-alexandria-ost/03%20Membebaniku.mp3"
+		},
 
 		
+		{
+			"id": "4",
+			"judul": "Peterpan - Album Alexandria - 04 Menunggu Pagi 987",
+			"url": "https://ia601401.us.archive.org/3/items/peterpan-alexandria-ost/04%20Menunggu%20Pagi.mp3"
+		},
+
 		
+		{
+			"id": "5",
+			"judul": "Peterpan - Album Alexandria - 05 Kukatakan Dengan Indah 982",
+			"url": "https://ia801401.us.archive.org/3/items/peterpan-alexandria-ost/05%20Kukatakan%20Dengan%20Indah.mp3"
+		},
+
+		
+		{
+			"id": "6",
+			"judul": "Peterpan - Album Alexandria - 06 Sahabat 627",
+			"url": "https://ia601401.us.archive.org/3/items/peterpan-alexandria-ost/06%20Sahabat.mp3"
+		},
+
+		
+		{
+			"id": "7",
+			"judul": "Peterpan - Album Alexandria - 07 Aku & Bintang 283",
+			"url": "https://ia801401.us.archive.org/3/items/peterpan-alexandria-ost/07%20Aku%20%26%20Bintang.mp3"
+		},
+
+		
+		{
+			"id": "8",
+			"judul": "Peterpan - Album Alexandria - 08 Mungkin Nanti 975",
+			"url": "https://ia601401.us.archive.org/3/items/peterpan-alexandria-ost/08%20Mungkin%20Nanti.mp3"
+		},
+
+		
+		{
+			"id": "9",
+			"judul": "Peterpan - Album Alexandria - 09 Di Belakangku 318",
+			"url": "https://ia801401.us.archive.org/3/items/peterpan-alexandria-ost/09%20Di%20Belakangku.mp3"
+		},
+
+		
+		{
+			"id": "10",
+			"judul": "Peterpan - Album Alexandria - 10 Langit Tak Mendengar 780",
+			"url": "https://ia801401.us.archive.org/3/items/peterpan-alexandria-ost/10%20Langit%20Tak%20Mendengar.mp3"
+		}
+
 	]
 }
