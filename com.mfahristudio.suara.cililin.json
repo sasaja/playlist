@@ -1,0 +1,682 @@
+{
+	"update": [{
+		"new_pkg": "YOUR_PACKAGE_NAME",
+		"message": "Please install app updates for your device before."
+	}],
+
+
+	"playlist": [
+		
+		{
+			"id": "1",
+			"judul": "213e204b 22cc 0060 f062 990ece940d99 357",
+			"url": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2021-1-1/213e204b-22cc-0060-f062-990ece940d99.mp3"
+		},
+
+		
+		{
+			"id": "2",
+			"judul": "298250f2 ebfe 7758 950b 7be16a3c0cf5 899",
+			"url": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2021-1-1/298250f2-ebfe-7758-950b-7be16a3c0cf5.mp3"
+		},
+
+		
+		{
+			"id": "3",
+			"judul": "2cf5e2dc 4e2c 6a9b a830 833cb8aaf75c 380",
+			"url": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2021-1-1/2cf5e2dc-4e2c-6a9b-a830-833cb8aaf75c.mp3"
+		},
+
+		
+		{
+			"id": "4",
+			"judul": "8ca519a1 d97b 5107 cc45 39cdf0eb5e69 937",
+			"url": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2021-1-1/8ca519a1-d97b-5107-cc45-39cdf0eb5e69.mp3"
+		},
+
+		
+		{
+			"id": "5",
+			"judul": "9bf54514 b058 0c56 b4b4 c2655b8e9a74 690",
+			"url": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2021-1-1/9bf54514-b058-0c56-b4b4-c2655b8e9a74.mp3"
+		},
+
+		
+		{
+			"id": "6",
+			"judul": "C944f522 1042 db1f 2851 afb77ce9d241 561",
+			"url": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2021-1-1/c944f522-1042-db1f-2851-afb77ce9d241.mp3"
+		},
+
+		
+		{
+			"id": "7",
+			"judul": "D45413e3 9e10 560d a667 8fe7c0e98a72 224",
+			"url": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2021-1-1/d45413e3-9e10-560d-a667-8fe7c0e98a72.mp3"
+		},
+
+		
+		{
+			"id": "8",
+			"judul": "Masteran   Cililin 760",
+			"url": "https://ia601502.us.archive.org/15/items/MasteranCililin/Masteran%20-%20Cililin.mp3"
+		},
+
+		
+		{
+			"id": "9",
+			"judul": "Kretekan Keras Dan Tembakan Murai Batu Gacor Ini Bikin Emosi Langsung Nyaut 940",
+			"url": "https://ia601507.us.archive.org/34/items/yt-1s.com-100-ampuh-memancing-emosi-dan-bongkar-isian-dengan-murai-batu-isian-cililin-ini/yt1s.com%20-%20KRETEKAN%20KERAS%20DAN%20TEMBAKAN%20MURAI%20BATU%20GACOR%20INI%20BIKIN%20EMOSI%20LANGSUNG%20NYAUT.mp3"
+		},
+
+		
+		{
+			"id": "10",
+			"judul": "Suara   Burung   Cililin 547",
+			"url": "https://ia801400.us.archive.org/33/items/SuaraBurungCililin/suara%20-%20burung%20-%20cililin.mp3"
+		},
+
+		
+		{
+			"id": "11",
+			"judul": "Suara   Kicauan cililin 469",
+			"url": "https://ia801403.us.archive.org/29/items/SuaraKicauanCililin/Suara%20-%20Kicauan-cililin.mp3"
+		},
+
+		
+		{
+			"id": "12",
+			"judul": "Suara   Tembakan cililin 514",
+			"url": "https://ia801403.us.archive.org/4/items/SuaraTembakanCililin/suara%20-%20tembakan-cililin.mp3"
+		},
+
+		
+		{
+			"id": "13",
+			"judul": "Tembakan   Cililin joss 480",
+			"url": "https://ia801406.us.archive.org/5/items/TembakanCililinJoss/Tembakan%20-%20cililin-joss.mp3"
+		},
+
+		
+		{
+			"id": "14",
+			"judul": "Suara   Cililin rapat 410",
+			"url": "https://ia801503.us.archive.org/30/items/SuaraCililinRapat/Suara%20-%20Cililin-rapat.mp3"
+		},
+
+		
+		{
+			"id": "15",
+			"judul": "Masteran   Cililin mantap 596",
+			"url": "https://ia801504.us.archive.org/4/items/MasteranCililinMantap/Masteran%20-%20Cililin-mantap.mp3"
+		},
+
+		
+		{
+			"id": "16",
+			"judul": "Masteran   Suara cililin 460",
+			"url": "https://ia801504.us.archive.org/6/items/MasteranSuaraCililin/masteran%20-%20suara-cililin.mp3"
+		},
+
+		
+		{
+			"id": "17",
+			"judul": "100 Ampuh Memancing Emosi Dan Bongkar Isian Dengan Murai Batu Isian Cililin Ini 928",
+			"url": "https://ia801507.us.archive.org/34/items/yt-1s.com-100-ampuh-memancing-emosi-dan-bongkar-isian-dengan-murai-batu-isian-cililin-ini/yt1s.com%20-%20100%20AMPUH%20MEMANCING%20EMOSI%20DAN%20BONGKAR%20ISIAN%20DENGAN%20MURAI%20BATU%20ISIAN%20CILILIN%20INI.mp3"
+		},
+
+		
+		{
+			"id": "18",
+			"judul": "Dijamin Langsung Nyaut Dan Ikut Gacor Dengan Suara Khas Murai Batu Ini 447",
+			"url": "https://ia801507.us.archive.org/34/items/yt-1s.com-100-ampuh-memancing-emosi-dan-bongkar-isian-dengan-murai-batu-isian-cililin-ini/yt1s.com%20-%20DIJAMIN%20LANGSUNG%20NYAUT%20dan%20IKUT%20GACOR%20dengan%20suara%20khas%20murai%20batu%20ini.mp3"
+		},
+
+		
+		{
+			"id": "19",
+			"judul": "Kompilasi Masteran Favorite   Kapas Tembak, Lovebird, Cililin, Gereja, Kenari, Cigun. 658",
+			"url": "https://ia801805.us.archive.org/26/items/y-2mate.com-kompilasi-masteran-favorite-kapas-tembak-lovebird-cililin-gereja-kenari-cigun./y2mate.com%20-%20Kompilasi%20masteran%20favorite%20_%20Kapas%20tembak%2C%20Lovebird%2C%20Cililin%2C%20Gereja%2C%20Kenari%2C%20Cigun..mp3"
+		},
+
+		
+		{
+			"id": "20",
+			"judul": "Cililin 902",
+			"url": "https://ia802505.us.archive.org/33/items/cililin_202207/cililin.mp3"
+		},
+
+		
+		{
+			"id": "21",
+			"judul": "Cililin gacor n panjang.lite 599",
+			"url": "https://ia802904.us.archive.org/4/items/masteran-cililinv2.lite/cililin-gacor-n-panjang.lite.mp3"
+		},
+
+		
+		{
+			"id": "22",
+			"judul": "Masteran cililinv1.lite 322",
+			"url": "https://ia802904.us.archive.org/4/items/masteran-cililinv2.lite/masteran-cililinv1.lite.mp3"
+		},
+
+		
+		{
+			"id": "23",
+			"judul": "Master cililin 3.lite 197",
+			"url": "https://ia802904.us.archive.org/4/items/masteran-cililinv2.lite/master-cililin-3.lite.mp3"
+		},
+
+		
+		{
+			"id": "24",
+			"judul": "Master cililin 5.lite 686",
+			"url": "https://ia802904.us.archive.org/4/items/masteran-cililinv2.lite/master-cililin-5.lite.mp3"
+		},
+
+		
+		{
+			"id": "25",
+			"judul": "F 789",
+			"url": "https://ia803100.us.archive.org/1/items/cililin_20180712/f.mp3"
+		},
+
+		
+		{
+			"id": "26",
+			"judul": "Masteran Cililin Asli Jernih 696",
+			"url": "https://ia803101.us.archive.org/19/items/masterancililinmp3suaraisianburungcililinmp3/Masteran%20Cililin%20Asli%20Jernih.mp3"
+		},
+
+		
+		{
+			"id": "27",
+			"judul": "Masteran Cililin Mp3 Suara Isian Burung Cililin Mp3 822",
+			"url": "https://ia803101.us.archive.org/19/items/masterancililinmp3suaraisianburungcililinmp3/Masteran%20Cililin%20Mp3%20Suara%20Isian%20Burung%20Cililin%20Mp3.mp3"
+		},
+
+		
+		{
+			"id": "28",
+			"judul": "Suara Burung Tembakan Cililin Rapat Ngotot Durasi Panjang Cocok Masteran Murai Batu 325",
+			"url": "https://ia803101.us.archive.org/19/items/masterancililinmp3suaraisianburungcililinmp3/SUARA%20BURUNG%20Tembakan%20CILILIN%20Rapat%20Ngotot%20Durasi%20Panjang%20Cocok%20Masteran%20MURAI%20BATU.mp3"
+		},
+
+		
+		{
+			"id": "29",
+			"judul": "Nightingale Vs Cililin 1 880",
+			"url": "https://ia803103.us.archive.org/6/items/NightingaleVsCililin1/Nightingale%20Vs%20Cililin%201.mp3"
+		},
+
+		
+		{
+			"id": "30",
+			"judul": "Suara Burung Cililin Vs Tengkek Buto Masteran Burung Terfavorit Murai 971",
+			"url": "https://ia803103.us.archive.org/6/items/suaraburungcililinvstengkekbutomasteranburungterfavoritmurai/SUARA%20BURUNG%20cililin%20vs%20tengkek%20buto%20masteran%20burung%20terfavorit%20murai.mp3"
+		},
+
+		
+		{
+			"id": "31",
+			"judul": "Tengkek Buto Gacor 867",
+			"url": "https://ia803103.us.archive.org/6/items/suaraburungcililinvstengkekbutomasteranburungterfavoritmurai/Tengkek%20Buto%20Gacor.mp3"
+		},
+
+		
+		{
+			"id": "32",
+			"judul": "Tengkek Buto Ngekek Super Panjang 5menit 515",
+			"url": "https://ia803103.us.archive.org/6/items/suaraburungcililinvstengkekbutomasteranburungterfavoritmurai/Tengkek%20Buto%20ngekek%20super%20panjang%205menit.mp3"
+		},
+
+		
+		{
+			"id": "33",
+			"judul": "Cililin 289",
+			"url": "https://ia803108.us.archive.org/29/items/cililin_201807/cililin.mp3"
+		},
+
+		
+		{
+			"id": "34",
+			"judul": "Cililin 3 468",
+			"url": "https://ia803108.us.archive.org/29/items/cililin_201807/cililin-3.mp3"
+		},
+
+		
+		{
+			"id": "35",
+			"judul": "Cililin 4 561",
+			"url": "https://ia803108.us.archive.org/29/items/cililin_201807/cililin-4.mp3"
+		},
+
+		
+		{
+			"id": "36",
+			"judul": "Cililin cokelat 782",
+			"url": "https://ia803108.us.archive.org/29/items/cililin_201807/cililin-cokelat.mp3"
+		},
+
+		
+		{
+			"id": "37",
+			"judul": "Cililin shakira versi panjang diulang 4 kali 305",
+			"url": "https://ia803108.us.archive.org/29/items/cililin_201807/cililin-shakira-versi-panjang-diulang-4-kali.mp3"
+		},
+
+		
+		{
+			"id": "38",
+			"judul": "Masteran Burung Cililin Gacor 681",
+			"url": "https://ia803109.us.archive.org/24/items/masteranburungcililingacor/Masteran%20Burung%20Cililin%20Gacor.mp3"
+		},
+
+		
+		{
+			"id": "39",
+			"judul": "Kicau Cililin 2 615",
+			"url": "https://ia803206.us.archive.org/14/items/KicauCililin2/kicau%20cililin%202.mp3"
+		},
+
+		
+		{
+			"id": "40",
+			"judul": "Masteransuaracililintenangsehinggamudahditiruolehburungcendetdankacer 716",
+			"url": "https://ia803206.us.archive.org/14/items/KicauCililin2/MasteranSuaraCililinTenangSehinggaMudahDitiruOlehBurungCendetDanKacer.mp3"
+		},
+
+		
+		{
+			"id": "41",
+			"judul": "Suaraburungmastergereja2modelsuarakombinasisuaracililindenganjedasuaraalam 919",
+			"url": "https://ia803206.us.archive.org/14/items/KicauCililin2/SuaraBurungMasterGereja2ModelSuaraKombinasiSuaraCililinDenganJedaSuaraAlam.mp3"
+		},
+
+		
+		{
+			"id": "42",
+			"judul": "Suarakicauburungcililin free mp3 streaming.online 385",
+			"url": "https://ia803206.us.archive.org/14/items/KicauCililin2/SuaraKicauBurungCililin-Free-mp3-streaming.online.mp3"
+		},
+
+		
+		{
+			"id": "43",
+			"judul": "Cililin Gacor Ak47 322",
+			"url": "https://ia804603.us.archive.org/34/items/y-2mate.com-master-sangat-bagus-suara-burung-cililin-audio-jernih-nonstop-2-jam/y2mate.com%20-%20Cililin%20Gacor%20AK47.mp3"
+		},
+
+		
+		{
+			"id": "44",
+			"judul": "Cililin Super Jernih Jeda 5 Detik Masteran Burung Juara (1) 450",
+			"url": "https://ia804603.us.archive.org/34/items/y-2mate.com-master-sangat-bagus-suara-burung-cililin-audio-jernih-nonstop-2-jam/y2mate.com%20-%20cililin%20super%20jernih%20jeda%205%20detik%20masteran%20burung%20juara%20%281%29.mp3"
+		},
+
+		
+		{
+			"id": "45",
+			"judul": "Masteran Burung Cililin Gacor Durasi Panjang Di Iringi Gemercik Air 515",
+			"url": "https://ia804603.us.archive.org/34/items/y-2mate.com-master-sangat-bagus-suara-burung-cililin-audio-jernih-nonstop-2-jam/y2mate.com%20-%20MASTERAN%20BURUNG%20CILILIN%20gacor%20durasi%20panjang%20di%20iringi%20GEMERCIK%20AIR.mp3"
+		},
+
+		
+		{
+			"id": "46",
+			"judul": "Masteran Cililin Suara Jernih Cililin Gacor Panjang 971",
+			"url": "https://ia804603.us.archive.org/34/items/y-2mate.com-master-sangat-bagus-suara-burung-cililin-audio-jernih-nonstop-2-jam/y2mate.com%20-%20MASTERAN%20CILILIN%20SUARA%20JERNIH%20CILILIN%20GACOR%20PANJANG.mp3"
+		},
+
+		
+		{
+			"id": "47",
+			"judul": "Masteran Suara Burung Cililin Asli Gacor Jernih Jeda Durasi Panjang Full Nembak Mudah Ditirukan 970",
+			"url": "https://ia804603.us.archive.org/34/items/y-2mate.com-master-sangat-bagus-suara-burung-cililin-audio-jernih-nonstop-2-jam/y2mate.com%20-%20Masteran%20Suara%20burung%20CILILIN%20asli%20gacor%20jernih%20jeda%20durasi%20panjang%20full%20nembak%20mudah%20ditirukan.mp3"
+		},
+
+		
+		{
+			"id": "48",
+			"judul": "Suara cililinoke 426",
+			"url": "https://ia804702.us.archive.org/19/items/SuaraCililinoke/Suara-cililinoke.mp3"
+		},
+
+		
+		{
+			"id": "49",
+			"judul": "Masteran dahsyat cililin 395",
+			"url": "https://ia804702.us.archive.org/3/items/masteran-dahsyat-cililin/masteran-dahsyat-cililin.mp3"
+		},
+
+		
+		{
+			"id": "50",
+			"judul": "Cililin Gacor Ak47 Ngeroll Panjang Suara Jernih 894",
+			"url": "https://ia804703.us.archive.org/8/items/suara-burung-cililin/Cililin%20Gacor%20AK47%20Ngeroll%20Panjang%20Suara%20Jernih.mp3"
+		},
+
+		
+		{
+			"id": "51",
+			"judul": "Cililin Super Jernih Jeda 5 Detik Masteran Burung Juara (1) 561",
+			"url": "https://ia804703.us.archive.org/8/items/suara-burung-cililin/cililin%20super%20jernih%20jeda%205%20detik%20masteran%20burung%20juara%20%281%29.mp3"
+		},
+
+		
+		{
+			"id": "52",
+			"judul": "Cililin Vs Kapas Tembak Masteran No1 Paling Dipakai Kicau Mania Mantab 757",
+			"url": "https://ia804703.us.archive.org/8/items/suara-burung-cililin/Cililin%20Vs%20Kapas%20Tembak%20Masteran%20No1%20Paling%20Dipakai%20Kicau%20Mania%20Mantab.mp3"
+		},
+
+		
+		{
+			"id": "53",
+			"judul": "Master Sangat Bagus Suara  Burung Cililin  Audio Jernih   Nonstop 2 Jam 565",
+			"url": "https://ia804703.us.archive.org/8/items/suara-burung-cililin/MASTER%20SANGAT%20BAGUS%20SUARA%20%20BURUNG%20CILILIN%20%20AUDIO%20JERNIH%20%20%20Nonstop%202%20JAM.mp3"
+		},
+
+		
+		{
+			"id": "54",
+			"judul": "Masteran Burung Cililin Durasi Panjang 477",
+			"url": "https://ia804703.us.archive.org/8/items/suara-burung-cililin/Masteran%20Burung%20Cililin%20Durasi%20Panjang.mp3"
+		},
+
+		
+		{
+			"id": "55",
+			"judul": "Masteran Burung Cililin Gacor Durasi Panjang Di Iringi Gemercik Air 336",
+			"url": "https://ia804703.us.archive.org/8/items/suara-burung-cililin/MASTERAN%20BURUNG%20CILILIN%20gacor%20durasi%20panjang%20di%20iringi%20GEMERCIK%20AIR.mp3"
+		},
+
+		
+		{
+			"id": "56",
+			"judul": "Masteran Cililin Jernih Durasi 1 Jam Tanpa Iklan  Terbaru 2021 113",
+			"url": "https://ia804703.us.archive.org/8/items/suara-burung-cililin/MASTERAN%20CILILIN%20JERNIH%20DURASI%201%20JAM%20TANPA%20IKLAN%20%20terbaru%202021.mp3"
+		},
+
+		
+		{
+			"id": "57",
+			"judul": "Masteran Cililin Suara Jernih Cililin Gacor Panjang 254",
+			"url": "https://ia804703.us.archive.org/8/items/suara-burung-cililin/MASTERAN%20CILILIN%20SUARA%20JERNIH%20CILILIN%20GACOR%20PANJANG.mp3"
+		},
+
+		
+		{
+			"id": "58",
+			"judul": "Pasti Juara Kalau Masteran Cililin Ini Masuk Ke Burung Kicau Anda 558",
+			"url": "https://ia804703.us.archive.org/8/items/suara-burung-cililin/Pasti%20JUARA%20kalau%20masteran%20cililin%20ini%20masuk%20ke%20burung%20kicau%20anda.mp3"
+		},
+
+		
+		{
+			"id": "59",
+			"judul": "Masteran Cililin Jernih  Masteran Burung Cililin 117",
+			"url": "https://ia902701.us.archive.org/18/items/masteran-cililin/Masteran%20Cililin%20Jernih%20%20Masteran%20Burung%20Cililin.mp3"
+		},
+
+		
+		{
+			"id": "60",
+			"judul": "Cililin cokelat.lite 834",
+			"url": "https://ia902904.us.archive.org/4/items/masteran-cililinv2.lite/cililin-cokelat.lite.mp3"
+		},
+
+		
+		{
+			"id": "61",
+			"judul": "Cililin juara nasional 2915.lite 613",
+			"url": "https://ia902904.us.archive.org/4/items/masteran-cililinv2.lite/cililin-juara-nasional-2915.lite.mp3"
+		},
+
+		
+		{
+			"id": "62",
+			"judul": "Master Cililin 1 660",
+			"url": "https://ia902904.us.archive.org/4/items/masteran-cililinv2.lite/master%20cililin%201.mp3"
+		},
+
+		
+		{
+			"id": "63",
+			"judul": "Masteran cililinv2.lite 336",
+			"url": "https://ia902904.us.archive.org/4/items/masteran-cililinv2.lite/masteran-cililinv2.lite.mp3"
+		},
+
+		
+		{
+			"id": "64",
+			"judul": "Master cililin 1.lite 302",
+			"url": "https://ia902904.us.archive.org/4/items/masteran-cililinv2.lite/master-cililin-1.lite.mp3"
+		},
+
+		
+		{
+			"id": "65",
+			"judul": "Master cililin 2.lite 957",
+			"url": "https://ia902904.us.archive.org/4/items/masteran-cililinv2.lite/master-cililin-2.lite.mp3"
+		},
+
+		
+		{
+			"id": "66",
+			"judul": "Master cililin 4.lite 236",
+			"url": "https://ia902904.us.archive.org/4/items/masteran-cililinv2.lite/master-cililin-4.lite.mp3"
+		},
+
+		
+		{
+			"id": "67",
+			"judul": "G 719",
+			"url": "https://ia903100.us.archive.org/1/items/cililin_20180712/g.mp3"
+		},
+
+		
+		{
+			"id": "68",
+			"judul": "Cililin Gacor Ngotot Rapat Jernihmasteran Terbaik Kicau Lomba 791",
+			"url": "https://ia903101.us.archive.org/19/items/masterancililinmp3suaraisianburungcililinmp3/Cililin%20Gacor%20NGOTOT%20Rapat%20JernihMasteran%20Terbaik%20Kicau%20Lomba.mp3"
+		},
+
+		
+		{
+			"id": "69",
+			"judul": "Kicau Burung Cililin Ngamuk Gacor Suara Edan 573",
+			"url": "https://ia903101.us.archive.org/19/items/masterancililinmp3suaraisianburungcililinmp3/Kicau%20Burung%20Cililin%20Ngamuk%20Gacor%20Suara%20Edan.mp3"
+		},
+
+		
+		{
+			"id": "70",
+			"judul": "Nightingale Vs Cililin 503",
+			"url": "https://ia903105.us.archive.org/14/items/NightingaleVsCililin/Nightingale%20Vs%20Cililin.mp3"
+		},
+
+		
+		{
+			"id": "71",
+			"judul": "Cililin 2 109",
+			"url": "https://ia903108.us.archive.org/29/items/cililin_201807/cililin_2.mp3"
+		},
+
+		
+		{
+			"id": "72",
+			"judul": "Suaraburungcililin free mp3 streaming.online 503",
+			"url": "https://ia903206.us.archive.org/14/items/KicauCililin2/SuaraBurungCililin-Free-mp3-streaming.online.mp3"
+		},
+
+		
+		{
+			"id": "73",
+			"judul": "Cililin Gacor Ak47 Ngeroll Panjang Suara Jernih Dengan Gemericik Air  Tanpa Iklan 670",
+			"url": "https://ia904603.us.archive.org/34/items/y-2mate.com-master-sangat-bagus-suara-burung-cililin-audio-jernih-nonstop-2-jam/y2mate.com%20-%20Cililin%20Gacor%20AK47%20Ngeroll%20Panjang%20Suara%20Jernih%20Dengan%20Gemericik%20Air%20%20TANPA%20IKLAN.mp3"
+		},
+
+		
+		{
+			"id": "74",
+			"judul": "Cililin Super Jernih Jeda 5 Detik Masteran Burung Juara 729",
+			"url": "https://ia904603.us.archive.org/34/items/y-2mate.com-master-sangat-bagus-suara-burung-cililin-audio-jernih-nonstop-2-jam/y2mate.com%20-%20cililin%20super%20jernih%20jeda%205%20detik%20masteran%20burung%20juara.mp3"
+		},
+
+		
+		{
+			"id": "75",
+			"judul": "Master Sangat Bagus Suara  Burung Cililin  Audio Jernih   Nonstop 2 Jam 264",
+			"url": "https://ia904603.us.archive.org/34/items/y-2mate.com-master-sangat-bagus-suara-burung-cililin-audio-jernih-nonstop-2-jam/y2mate.com%20-%20MASTER%20SANGAT%20BAGUS%20SUARA%20%20BURUNG%20CILILIN%20%20AUDIO%20JERNIH%20%20%20Nonstop%202%20JAM.mp3"
+		},
+
+		
+		{
+			"id": "76",
+			"judul": "Masteran Burung Cililin Durasi Panjang 134",
+			"url": "https://ia904603.us.archive.org/34/items/y-2mate.com-master-sangat-bagus-suara-burung-cililin-audio-jernih-nonstop-2-jam/y2mate.com%20-%20Masteran%20Burung%20Cililin%20Durasi%20Panjang.mp3"
+		},
+
+		
+		{
+			"id": "77",
+			"judul": "Masteran Cililin Jernih  Masteran Burung Cililin 327",
+			"url": "https://ia904603.us.archive.org/34/items/y-2mate.com-master-sangat-bagus-suara-burung-cililin-audio-jernih-nonstop-2-jam/y2mate.com%20-%20Masteran%20Cililin%20Jernih%20%20Masteran%20Burung%20Cililin.mp3"
+		},
+
+		
+		{
+			"id": "78",
+			"judul": "Masteran Cililin Jernih Durasi 1 Jam Tanpa Iklan  Terbaru 2021 116",
+			"url": "https://ia904603.us.archive.org/34/items/y-2mate.com-master-sangat-bagus-suara-burung-cililin-audio-jernih-nonstop-2-jam/y2mate.com%20-%20MASTERAN%20CILILIN%20JERNIH%20DURASI%201%20JAM%20TANPA%20IKLAN%20%20terbaru%202021.mp3"
+		},
+
+		
+		{
+			"id": "79",
+			"judul": "Pasti Juara Kalau Masteran Cililin Ini Masuk Ke Burung Kicau Anda 414",
+			"url": "https://ia904603.us.archive.org/34/items/y-2mate.com-master-sangat-bagus-suara-burung-cililin-audio-jernih-nonstop-2-jam/y2mate.com%20-%20Pasti%20JUARA%20kalau%20masteran%20cililin%20ini%20masuk%20ke%20burung%20kicau%20anda.mp3"
+		},
+
+		
+		{
+			"id": "80",
+			"judul": "Tembakan   Cililin Mantab 464",
+			"url": "https://ia904702.us.archive.org/6/items/TembakanCililinMantab/Tembakan%20-%20Cililin%20Mantab.mp3"
+		},
+
+		
+		{
+			"id": "81",
+			"judul": "Suara Cililin   Burung Cililin 213",
+			"url": "https://ia904703.us.archive.org/31/items/SuaraCililinBurungCililin/Suara%20Cililin%20-%20Burung%20Cililin.mp3"
+		},
+
+		
+		{
+			"id": "82",
+			"judul": "Masteran cililin best 872",
+			"url": "https://ia904703.us.archive.org/4/items/MasteranCililinBest/Masteran-Cililin-best.mp3"
+		},
+
+		
+		{
+			"id": "83",
+			"judul": "Cililin Gacor Ak47 Ngeroll Panjang Suara Jernih Dengan Gemericik Air  Tanpa Iklan 979",
+			"url": "https://ia904703.us.archive.org/8/items/suara-burung-cililin/Cililin%20Gacor%20AK47%20Ngeroll%20Panjang%20Suara%20Jernih%20Dengan%20Gemericik%20Air%20%20TANPA%20IKLAN.mp3"
+		},
+
+		
+		{
+			"id": "84",
+			"judul": "Cililin Gacor Ak47 324",
+			"url": "https://ia904703.us.archive.org/8/items/suara-burung-cililin/Cililin%20Gacor%20AK47.mp3"
+		},
+
+		
+		{
+			"id": "85",
+			"judul": "Cililin Super Jernih Jeda 5 Detik Masteran Burung Juara 526",
+			"url": "https://ia904703.us.archive.org/8/items/suara-burung-cililin/cililin%20super%20jernih%20jeda%205%20detik%20masteran%20burung%20juara.mp3"
+		},
+
+		
+		{
+			"id": "86",
+			"judul": "Masteran Suara Burung Cililin Asli Gacor Jernih Jeda Durasi Panjang Full Nembak Mudah Ditirukan 947",
+			"url": "https://ia904703.us.archive.org/8/items/suara-burung-cililin/Masteran%20Suara%20burung%20CILILIN%20asli%20gacor%20jernih%20jeda%20durasi%20panjang%20full%20nembak%20mudah%20ditirukan.mp3"
+		},
+
+		
+		{
+			"id": "87",
+			"judul": "Masteran cililin nyaring 309",
+			"url": "https://ia904706.us.archive.org/5/items/MasteranCililinNyaring/Masteran-Cililin-nyaring.mp3"
+		},
+
+		
+		{
+			"id": "88",
+			"judul": "Masteran   Cililin Top 658",
+			"url": "https://ia904707.us.archive.org/27/items/MASTERANCILILINTOP/MASTERAN%20-%20CILILIN%20TOP.mp3"
+		},
+
+		
+		{
+			"id": "89",
+			"judul": "Burung gereja kombinasi cililin 620",
+			"url": "https://raw.githubusercontent.com/kicaumania/Cililin/main/burung-gereja-kombinasi-cililin.mp3"
+		},
+
+		
+		{
+			"id": "90",
+			"judul": "Cililin Gacor Masteran Murai Mp3 930",
+			"url": "https://raw.githubusercontent.com/kicaumania/Cililin/main/Cililin%20Gacor%20Masteran%20Murai%20Mp3.mp3"
+		},
+
+		
+		{
+			"id": "91",
+			"judul": "Mp3 Konin Isian Cililin 493",
+			"url": "https://raw.githubusercontent.com/kicaumania/Cililin/main/Mp3%20Konin%20Isian%20Cililin.mp3"
+		},
+
+		
+		{
+			"id": "92",
+			"judul": "Mp3 Suara Cililin Ngerol Panjang 588",
+			"url": "https://raw.githubusercontent.com/kicaumania/Cililin/main/Mp3%20Suara%20Cililin%20Ngerol%20Panjang.mp3"
+		},
+
+		
+		{
+			"id": "93",
+			"judul": "Suara Cililin Asli Hutan 472",
+			"url": "https://raw.githubusercontent.com/kicaumania/Cililin/main/Suara%20Cililin%20Asli%20Hutan.mp3"
+		},
+
+		
+		{
+			"id": "94",
+			"judul": "Suara Cililin Dan Gemercik Air Versi Panjang 877",
+			"url": "https://raw.githubusercontent.com/kicaumania/Cililin/main/Suara%20Cililin%20dan%20Gemercik%20Air%20Versi%20Panjang.mp3"
+		},
+
+		
+		{
+			"id": "95",
+			"judul": "Suara Cililin Dan Gemercik Air Versi Pendek 643",
+			"url": "https://raw.githubusercontent.com/kicaumania/Cililin/main/Suara%20Cililin%20dan%20Gemercik%20Air%20Versi%20Pendek.mp3"
+		},
+
+		
+		{
+			"id": "96",
+			"judul": "Suara cililin terbaru 723",
+			"url": "https://raw.githubusercontent.com/kicaumania/Cililin/main/suara-cililin-terbaru.mp3"
+		}
+
+	]
+}
