@@ -1,0 +1,696 @@
+{
+	"update": [{
+		"new_pkg": "com.mfahristudio.cucak.jenggot",
+		"message": "Please install app updates for your device before."
+	}],
+
+
+	"playlist": [
+		
+		{
+			"id": "1",
+			"judul": "Suara Isian Cucak Jenggot Versi 5 387",
+			"url": "https://raw.githubusercontent.com/kicaumania/Cucak-Jenggot/main/Suara%20Isian%20Cucak%20Jenggot%20versi%205.mp3"
+		},
+
+		
+		{
+			"id": "2",
+			"judul": "Suara Isian Cucak Jenggot Versi 4 130",
+			"url": "https://raw.githubusercontent.com/kicaumania/Cucak-Jenggot/main/Suara%20Isian%20Cucak%20Jenggot%20versi%204.mp3"
+		},
+
+		
+		{
+			"id": "3",
+			"judul": "Suara Isian Cucak Jenggot Versi 3 292",
+			"url": "https://raw.githubusercontent.com/kicaumania/Cucak-Jenggot/main/Suara%20Isian%20Cucak%20Jenggot%20versi%203.mp3"
+		},
+
+		
+		{
+			"id": "4",
+			"judul": "Suara Isian Cucak Jenggot Versi 2 529",
+			"url": "https://raw.githubusercontent.com/kicaumania/Cucak-Jenggot/main/Suara%20Isian%20Cucak%20Jenggot%20versi%202.mp3"
+		},
+
+		
+		{
+			"id": "5",
+			"judul": "Suara Isian Cucak Jenggot Versi 1 529",
+			"url": "https://raw.githubusercontent.com/kicaumania/Cucak-Jenggot/main/Suara%20Isian%20Cucak%20Jenggot%20versi%201.mp3"
+		},
+
+		
+		{
+			"id": "6",
+			"judul": "Audio Simulasi Lomba Cucak Jenggot Versi 3 906",
+			"url": "https://raw.githubusercontent.com/kicaumania/Cucak-Jenggot/main/Audio%20simulasi%20Lomba%20Cucak%20Jenggot%20Versi%203.mp3"
+		},
+
+		
+		{
+			"id": "7",
+			"judul": "Audio Simulasi Lomba Cucak Jenggot Versi 2 852",
+			"url": "https://raw.githubusercontent.com/kicaumania/Cucak-Jenggot/main/Audio%20simulasi%20Lomba%20Cucak%20Jenggot%20Versi%202.mp3"
+		},
+
+		
+		{
+			"id": "8",
+			"judul": "Audio Simulasi Lomba Cucak Jenggot Versi 1 574",
+			"url": "https://raw.githubusercontent.com/kicaumania/Cucak-Jenggot/main/Audio%20simulasi%20Lomba%20Cucak%20Jenggot%20Versi%201.mp3"
+		},
+
+		
+		{
+			"id": "9",
+			"judul": "Master Cucak Jenggot 4 239",
+			"url": "https://ia902901.us.archive.org/35/items/mastercucakjenggot10/master%20cucak%20jenggot%204.mp3"
+		},
+
+		
+		{
+			"id": "10",
+			"judul": "Master Cucak Jenggot 3 381",
+			"url": "https://ia902901.us.archive.org/35/items/mastercucakjenggot10/master%20cucak%20jenggot%203.mp3"
+		},
+
+		
+		{
+			"id": "11",
+			"judul": "Master Cucak Jenggot 2 257",
+			"url": "https://ia902901.us.archive.org/35/items/mastercucakjenggot10/master%20cucak%20jenggot%202.mp3"
+		},
+
+		
+		{
+			"id": "12",
+			"judul": "Master Cucak Jenggot 10 912",
+			"url": "https://ia902901.us.archive.org/35/items/mastercucakjenggot10/master%20cucak%20jenggot%2010.mp3"
+		},
+
+		
+		{
+			"id": "13",
+			"judul": "Kumpulan Kicau Cucak Ijo (8) 197",
+			"url": "https://ia902306.us.archive.org/7/items/kicau-burung-cucak-jenggot_202110/Kumpulan%20Kicau%20Cucak%20Ijo%20%288%29.mp3"
+		},
+
+		
+		{
+			"id": "14",
+			"judul": "Kumpulan Kicau Cucak Ijo (7) 356",
+			"url": "https://ia902306.us.archive.org/7/items/kicau-burung-cucak-jenggot_202110/Kumpulan%20Kicau%20Cucak%20Ijo%20%287%29.mp3"
+		},
+
+		
+		{
+			"id": "15",
+			"judul": "Kumpulan Kicau Cucak Ijo (5) 444",
+			"url": "https://ia902306.us.archive.org/7/items/kicau-burung-cucak-jenggot_202110/Kumpulan%20Kicau%20Cucak%20Ijo%20%285%29.mp3"
+		},
+
+		
+		{
+			"id": "16",
+			"judul": "Kumpulan Kicau Cucak Ijo (2) 888",
+			"url": "https://ia902306.us.archive.org/7/items/kicau-burung-cucak-jenggot_202110/Kumpulan%20Kicau%20Cucak%20Ijo%20%282%29.mp3"
+		},
+
+		
+		{
+			"id": "17",
+			"judul": "Kumpulan Kicau Cucak Ijo (1) 306",
+			"url": "https://ia902306.us.archive.org/7/items/kicau-burung-cucak-jenggot_202110/Kumpulan%20Kicau%20Cucak%20Ijo%20%281%29.mp3"
+		},
+
+		
+		{
+			"id": "18",
+			"judul": "Cucak cungkok untuk kacer murai cucak hijau masteran kompilasi 644",
+			"url": "https://ia902303.us.archive.org/17/items/cucak-jenggot-untuk-kacer-murai-cucak-hijau-masteran-kompilasi/cucak-cungkok-untuk-kacer-murai-cucak-hijau-masteran-kompilasi.mp3"
+		},
+
+		
+		{
+			"id": "19",
+			"judul": "Cililin untuk kacer murai cucak hijau masteran kompilasi 483",
+			"url": "https://ia902303.us.archive.org/17/items/cucak-jenggot-untuk-kacer-murai-cucak-hijau-masteran-kompilasi/cililin-untuk-kacer-murai-cucak-hijau-masteran-kompilasi.mp3"
+		},
+
+		
+		{
+			"id": "20",
+			"judul": "Suara Panggilan Cucak Cungkok (1) 978",
+			"url": "https://ia902300.us.archive.org/16/items/kicau-burung-cucak-jenggot/Suara%20Panggilan%20Cucak%20Cungkok%20%281%29.mp3"
+		},
+
+		
+		{
+			"id": "21",
+			"judul": "Kicau Cucak Jenggot Pilihan (9) 352",
+			"url": "https://ia902300.us.archive.org/16/items/kicau-burung-cucak-jenggot/Kicau%20Cucak%20Jenggot%20Pilihan%20%289%29.mp3"
+		},
+
+		
+		{
+			"id": "22",
+			"judul": "Master Cucak Jenggot 9 655",
+			"url": "https://ia802901.us.archive.org/35/items/mastercucakjenggot10/master%20cucak%20jenggot%209.mp3"
+		},
+
+		
+		{
+			"id": "23",
+			"judul": "Master Cucak Jenggot 8 382",
+			"url": "https://ia802901.us.archive.org/35/items/mastercucakjenggot10/master%20cucak%20jenggot%208.mp3"
+		},
+
+		
+		{
+			"id": "24",
+			"judul": "Master Cucak Jenggot 7 313",
+			"url": "https://ia802901.us.archive.org/35/items/mastercucakjenggot10/master%20cucak%20jenggot%207.mp3"
+		},
+
+		
+		{
+			"id": "25",
+			"judul": "Master Cucak Jenggot 6 360",
+			"url": "https://ia802901.us.archive.org/35/items/mastercucakjenggot10/master%20cucak%20jenggot%206.mp3"
+		},
+
+		
+		{
+			"id": "26",
+			"judul": "Master Cucak Jenggot 5 978",
+			"url": "https://ia802901.us.archive.org/35/items/mastercucakjenggot10/master%20cucak%20jenggot%205.mp3"
+		},
+
+		
+		{
+			"id": "27",
+			"judul": "Master Cucak Jenggot 1 645",
+			"url": "https://ia802901.us.archive.org/35/items/mastercucakjenggot10/master%20cucak%20jenggot%201.mp3"
+		},
+
+		
+		{
+			"id": "28",
+			"judul": "Kumpulan Kicau Cucak Ijo (9) 129",
+			"url": "https://ia802306.us.archive.org/7/items/kicau-burung-cucak-jenggot_202110/Kumpulan%20Kicau%20Cucak%20Ijo%20%289%29.mp3"
+		},
+
+		
+		{
+			"id": "29",
+			"judul": "Kumpulan Kicau Cucak Ijo (6) 480",
+			"url": "https://ia802306.us.archive.org/7/items/kicau-burung-cucak-jenggot_202110/Kumpulan%20Kicau%20Cucak%20Ijo%20%286%29.mp3"
+		},
+
+		
+		{
+			"id": "30",
+			"judul": "Kumpulan Kicau Cucak Ijo (4) 167",
+			"url": "https://ia802306.us.archive.org/7/items/kicau-burung-cucak-jenggot_202110/Kumpulan%20Kicau%20Cucak%20Ijo%20%284%29.mp3"
+		},
+
+		
+		{
+			"id": "31",
+			"judul": "Kumpulan Kicau Cucak Ijo (3) 441",
+			"url": "https://ia802306.us.archive.org/7/items/kicau-burung-cucak-jenggot_202110/Kumpulan%20Kicau%20Cucak%20Ijo%20%283%29.mp3"
+		},
+
+		
+		{
+			"id": "32",
+			"judul": "Kumpulan Kicau Cucak Ijo (10) 234",
+			"url": "https://ia802306.us.archive.org/7/items/kicau-burung-cucak-jenggot_202110/Kumpulan%20Kicau%20Cucak%20Ijo%20%2810%29.mp3"
+		},
+
+		
+		{
+			"id": "33",
+			"judul": "Gereja tarung untuk kacer murai cucak hijau masteran kompilasi 952",
+			"url": "https://ia802303.us.archive.org/17/items/cucak-jenggot-untuk-kacer-murai-cucak-hijau-masteran-kompilasi/gereja-tarung-untuk-kacer-murai-cucak-hijau-masteran-kompilasi.mp3"
+		},
+
+		
+		{
+			"id": "34",
+			"judul": "Cucak jenggot untuk kacer murai cucak hijau masteran kompilasi 401",
+			"url": "https://ia802303.us.archive.org/17/items/cucak-jenggot-untuk-kacer-murai-cucak-hijau-masteran-kompilasi/cucak-jenggot-untuk-kacer-murai-cucak-hijau-masteran-kompilasi.mp3"
+		},
+
+		
+		{
+			"id": "35",
+			"judul": "Suara Panggilan Cucak Cungkok (2) 619",
+			"url": "https://ia802300.us.archive.org/16/items/kicau-burung-cucak-jenggot/Suara%20Panggilan%20Cucak%20Cungkok%20%282%29.mp3"
+		},
+
+		
+		{
+			"id": "36",
+			"judul": "Suara Kicauan Cucak Cungkok (6) 623",
+			"url": "https://ia802300.us.archive.org/16/items/kicau-burung-cucak-jenggot/Suara%20Kicauan%20Cucak%20Cungkok%20%286%29.mp3"
+		},
+
+		
+		{
+			"id": "37",
+			"judul": "Suara Kicauan Cucak Cungkok (5) 717",
+			"url": "https://ia802300.us.archive.org/16/items/kicau-burung-cucak-jenggot/Suara%20Kicauan%20Cucak%20Cungkok%20%285%29.mp3"
+		},
+
+		
+		{
+			"id": "38",
+			"judul": "Suara Kicauan Cucak Cungkok (4) 209",
+			"url": "https://ia802300.us.archive.org/16/items/kicau-burung-cucak-jenggot/Suara%20Kicauan%20Cucak%20Cungkok%20%284%29.mp3"
+		},
+
+		
+		{
+			"id": "39",
+			"judul": "Suara Kicauan Cucak Cungkok (3) 147",
+			"url": "https://ia802300.us.archive.org/16/items/kicau-burung-cucak-jenggot/Suara%20Kicauan%20Cucak%20Cungkok%20%283%29.mp3"
+		},
+
+		
+		{
+			"id": "40",
+			"judul": "Suara Kicauan Cucak Cungkok (2) 593",
+			"url": "https://ia802300.us.archive.org/16/items/kicau-burung-cucak-jenggot/Suara%20Kicauan%20Cucak%20Cungkok%20%282%29.mp3"
+		},
+
+		
+		{
+			"id": "41",
+			"judul": "Suara Kicauan Cucak Cungkok (1) 421",
+			"url": "https://ia802300.us.archive.org/16/items/kicau-burung-cucak-jenggot/Suara%20Kicauan%20Cucak%20Cungkok%20%281%29.mp3"
+		},
+
+		
+		{
+			"id": "42",
+			"judul": "Audio Terapi Cucak Cungko 870",
+			"url": "https://ia802300.us.archive.org/16/items/kicau-burung-cucak-jenggot/Audio%20Terapi%20Cucak%20Cungko.mp3"
+		},
+
+		
+		{
+			"id": "43",
+			"judul": "Pancingan Cucak Jenggot Gacor Panjang  Muzarab Buat Masteran Burung Lomba Kicau Pidong 232",
+			"url": "https://ia801502.us.archive.org/35/items/suara-burung-cucak-jenggot/Pancingan%20Cucak%20Jenggot%20Gacor%20panjang%20%20Muzarab%20Buat%20Masteran%20Burung%20Lomba%20Kicau%20Pidong.mp3"
+		},
+
+		
+		{
+			"id": "44",
+			"judul": "Mastering Cucak Jenggot Jernih 2 Jam Nonstop 940",
+			"url": "https://ia801502.us.archive.org/35/items/suara-burung-cucak-jenggot/MASTERING%20CUCAK%20JENGGOT%20JERNIH%202%20JAM%20NONSTOP.mp3"
+		},
+
+		
+		{
+			"id": "45",
+			"judul": "Masteran Wajib  Suara Cucak Jenggot Gacor Juara Durasi Panjang 794",
+			"url": "https://ia801502.us.archive.org/35/items/suara-burung-cucak-jenggot/Masteran%20Wajib%20%20Suara%20Cucak%20Jenggot%20Gacor%20Juara%20Durasi%20Panjang.mp3"
+		},
+
+		
+		{
+			"id": "46",
+			"judul": "Masteran Cucak Jenggot Suara Ngebren Jernih 854",
+			"url": "https://ia801502.us.archive.org/35/items/suara-burung-cucak-jenggot/MASTERAN%20Cucak%20Jenggot%20Suara%20Ngebren%20Jernih.mp3"
+		},
+
+		
+		{
+			"id": "47",
+			"judul": "Masteran Cucak Jenggot Gacor Full Mbeset Kasar 427",
+			"url": "https://ia801502.us.archive.org/35/items/suara-burung-cucak-jenggot/Masteran%20Cucak%20Jenggot%20Gacor%20Full%20Mbeset%20Kasar.mp3"
+		},
+
+		
+		{
+			"id": "48",
+			"judul": "Masteran Cucak Jenggot Gacor Full Mbeset Kasar Terbaik  Suara Burung Masteran 300",
+			"url": "https://ia801502.us.archive.org/35/items/suara-burung-cucak-jenggot/Masteran%20Cucak%20Jenggot%20Gacor%20Full%20Mbeset%20Kasar%20Terbaik%20%20suara%20burung%20masteran.mp3"
+		},
+
+		
+		{
+			"id": "49",
+			"judul": "Masteran Cucak Jenggot Gacor Full Mbeset Kasar Durasi Panjang 873",
+			"url": "https://ia801502.us.archive.org/35/items/suara-burung-cucak-jenggot/MASTERAN%20CUCAK%20JENGGOT%20GACOR%20FULL%20MBESET%20KASAR%20DURASI%20PANJANG.mp3"
+		},
+
+		
+		{
+			"id": "50",
+			"judul": "Masteran Cucak Jenggot  Gacor Jernih Durasi Panjang Terbaik  Masteran Burung Juara 283",
+			"url": "https://ia801502.us.archive.org/35/items/suara-burung-cucak-jenggot/Masteran%20Cucak%20Jenggot%20%20Gacor%20Jernih%20Durasi%20Panjang%20Terbaik%20%20Masteran%20Burung%20Juara.mp3"
+		},
+
+		
+		{
+			"id": "51",
+			"judul": "Cucak Jenggot Ngepik Mbeset Panjang  Cocok Untuk Pancingan Dan Masteran 495",
+			"url": "https://ia801502.us.archive.org/35/items/suara-burung-cucak-jenggot/CUCAK%20JENGGOT%20NGEPIK%20MBESET%20PANJANG%20%20Cocok%20untuk%20PANCINGAN%20dan%20MASTERAN.mp3"
+		},
+
+		
+		{
+			"id": "52",
+			"judul": "Suara Cucak Ijo Mini Betina 658",
+			"url": "https://ia801405.us.archive.org/17/items/cucak_jenggot_betina_01/suara%20cucak%20ijo%20mini%20betina.mp3"
+		},
+
+		
+		{
+			"id": "53",
+			"judul": "Cucak jenggot betina 01 663",
+			"url": "https://ia801405.us.archive.org/17/items/cucak_jenggot_betina_01/cucak_jenggot_betina_01.mp3"
+		},
+
+		
+		{
+			"id": "54",
+			"judul": "Cucak jenggot 01 695",
+			"url": "https://ia801405.us.archive.org/17/items/cucak_jenggot_betina_01/cucak_jenggot_01.mp3"
+		},
+
+		
+		{
+			"id": "55",
+			"judul": "Cucak jenggot 709",
+			"url": "https://ia801403.us.archive.org/29/items/cucak_jenggot/cucak_jenggot.mp3"
+		},
+
+		
+		{
+			"id": "56",
+			"judul": "Suara cucak jenggot isian v5 912",
+			"url": "https://ia801003.us.archive.org/21/items/suara-cucak-jenggot-isian-v3/suara-cucak-jenggot-isian-v5.mp3"
+		},
+
+		
+		{
+			"id": "57",
+			"judul": "Suara cucak jenggot isian v4 957",
+			"url": "https://ia801003.us.archive.org/21/items/suara-cucak-jenggot-isian-v3/suara-cucak-jenggot-isian-v4.mp3"
+		},
+
+		
+		{
+			"id": "58",
+			"judul": "Suara cucak jenggot isian v2 246",
+			"url": "https://ia801003.us.archive.org/21/items/suara-cucak-jenggot-isian-v3/suara-cucak-jenggot-isian-v2.mp3"
+		},
+
+		
+		{
+			"id": "59",
+			"judul": "Suara cucak jenggot isian v1 409",
+			"url": "https://ia801003.us.archive.org/21/items/suara-cucak-jenggot-isian-v3/suara-cucak-jenggot-isian-v1.mp3"
+		},
+
+		
+		{
+			"id": "60",
+			"judul": "Cucak jenggot betina 02 101280 295",
+			"url": "https://ia800802.us.archive.org/34/items/CucakJenggotBetina01101280/cucak_jenggot_betina_02%20101280.mp3"
+		},
+
+		
+		{
+			"id": "61",
+			"judul": "Cucak jenggot betina 01 101280 354",
+			"url": "https://ia800802.us.archive.org/34/items/CucakJenggotBetina01101280/cucak_jenggot_betina_01%20101280.mp3"
+		},
+
+		
+		{
+			"id": "62",
+			"judul": "Cucak jenggot 01 101280 130",
+			"url": "https://ia800802.us.archive.org/34/items/CucakJenggotBetina01101280/cucak_jenggot_01%20101280.mp3"
+		},
+
+		
+		{
+			"id": "63",
+			"judul": "Cucak jenggot (7) 101280 207",
+			"url": "https://ia800601.us.archive.org/30/items/CucakJenggot101280/Cucak-Jenggot-%287%29%20101280.mp3"
+		},
+
+		
+		{
+			"id": "64",
+			"judul": "Cucak jenggot (6) 101280 545",
+			"url": "https://ia800601.us.archive.org/30/items/CucakJenggot101280/Cucak-Jenggot-%286%29%20101280.mp3"
+		},
+
+		
+		{
+			"id": "65",
+			"judul": "Cucak jenggot (5) 101280 808",
+			"url": "https://ia800601.us.archive.org/30/items/CucakJenggot101280/Cucak-Jenggot-%285%29%20101280.mp3"
+		},
+
+		
+		{
+			"id": "66",
+			"judul": "Cucak jenggot (3) 101280 119",
+			"url": "https://ia800601.us.archive.org/30/items/CucakJenggot101280/Cucak-Jenggot-%283%29%20101280.mp3"
+		},
+
+		
+		{
+			"id": "67",
+			"judul": "Cucak jenggot (2) 101280 523",
+			"url": "https://ia800601.us.archive.org/30/items/CucakJenggot101280/Cucak-Jenggot-%282%29%20101280.mp3"
+		},
+
+		
+		{
+			"id": "68",
+			"judul": "Cucak jenggot (1) 101280 439",
+			"url": "https://ia800601.us.archive.org/30/items/CucakJenggot101280/Cucak-Jenggot-%281%29%20101280.mp3"
+		},
+
+		
+		{
+			"id": "69",
+			"judul": "Cucak jenggot 03 136",
+			"url": "https://ia800601.us.archive.org/13/items/cucak_jenggot_03/cucak_jenggot_03.mp3"
+		},
+
+		
+		{
+			"id": "70",
+			"judul": "Terapi Dan Masteran Cucak Jenggot Jadi Rajin Bunyigacor 201",
+			"url": "https://ia601502.us.archive.org/35/items/suara-burung-cucak-jenggot/Terapi%20dan%20masteran%20cucak%20jenggot%20jadi%20rajin%20bunyigacor.mp3"
+		},
+
+		
+		{
+			"id": "71",
+			"judul": "Tembakan Cucak Jenggot Gacor Buat Masteran Murai  Cucak Ijo Juara Besetan Ngebeset Malaysia 140",
+			"url": "https://ia601502.us.archive.org/35/items/suara-burung-cucak-jenggot/Tembakan%20Cucak%20Jenggot%20Gacor%20Buat%20Masteran%20Murai%20%20Cucak%20Ijo%20Juara%20Besetan%20Ngebeset%20Malaysia.mp3"
+		},
+
+		
+		{
+			"id": "72",
+			"judul": "Paling Di Cari  Masteran Cucak Jenggot Gacor Durasi Panjang 396",
+			"url": "https://ia601502.us.archive.org/35/items/suara-burung-cucak-jenggot/Paling%20Di%20Cari%20%20Masteran%20Cucak%20Jenggot%20Gacor%20Durasi%20Panjang.mp3"
+		},
+
+		
+		{
+			"id": "73",
+			"judul": "Masteran Wajib  Cucak Jenggot Venomenal Yang Lagi Viral Favoritnya Kicau Mania 816",
+			"url": "https://ia601502.us.archive.org/35/items/suara-burung-cucak-jenggot/MASTERAN%20WAJIB%20%20CUCAK%20JENGGOT%20VENOMENAL%20yang%20lagi%20VIRAL%20FAVORITNYA%20Kicau%20Mania.mp3"
+		},
+
+		
+		{
+			"id": "74",
+			"judul": "Masteran Wajib  Cucak Jenggot Gacor Besetan Kasar Roll Tembak Durasi Panjang 161",
+			"url": "https://ia601502.us.archive.org/35/items/suara-burung-cucak-jenggot/Masteran%20wajib%20%20cucak%20jenggot%20gacor%20BESETAN%20KASAR%20ROLL%20TEMBAK%20durasi%20PANJANG.mp3"
+		},
+
+		
+		{
+			"id": "75",
+			"judul": "Masteran Dahsyat Cucak Jenggot Gacor Dor Durasi Panjang 999",
+			"url": "https://ia601502.us.archive.org/35/items/suara-burung-cucak-jenggot/Masteran%20Dahsyat%20Cucak%20Jenggot%20Gacor%20Dor%20Durasi%20Panjang.mp3"
+		},
+
+		
+		{
+			"id": "76",
+			"judul": "Masteran Cucak Jenggot Jernih  Cocok Untuk Burung Murai Batu Cucak Ijo Cendet Kenari Lovebird 409",
+			"url": "https://ia601502.us.archive.org/35/items/suara-burung-cucak-jenggot/Masteran%20Cucak%20Jenggot%20Jernih%20%20Cocok%20untuk%20burung%20Murai%20Batu%20Cucak%20Ijo%20Cendet%20Kenari%20Lovebird.mp3"
+		},
+
+		
+		{
+			"id": "77",
+			"judul": "Masteran Cucak Jenggot Gacor Mbeset Jernih Durasi Panjang 898",
+			"url": "https://ia601502.us.archive.org/35/items/suara-burung-cucak-jenggot/MASTERAN%20CUCAK%20JENGGOT%20GACOR%20MBESET%20JERNIH%20DURASI%20PANJANG.mp3"
+		},
+
+		
+		{
+			"id": "78",
+			"judul": "Masteran Cucak Jenggot Gacor Beset Jernih Jeda 1 Menit 758",
+			"url": "https://ia601502.us.archive.org/35/items/suara-burung-cucak-jenggot/MASTERAN%20CUCAK%20JENGGOT%20GACOR%20BESET%20JERNIH%20JEDA%201%20MENIT.mp3"
+		},
+
+		
+		{
+			"id": "79",
+			"judul": "Masteran Cucak Jenggot Full Besetan 727",
+			"url": "https://ia601502.us.archive.org/35/items/suara-burung-cucak-jenggot/Masteran%20cucak%20jenggot%20full%20besetan.mp3"
+		},
+
+		
+		{
+			"id": "80",
+			"judul": "Masteran Cucak Jenggot Durasi Panjang 801",
+			"url": "https://ia601502.us.archive.org/35/items/suara-burung-cucak-jenggot/MASTERAN%20CUCAK%20JENGGOT%20DURASI%20PANJANG.mp3"
+		},
+
+		
+		{
+			"id": "81",
+			"judul": "Cucak Jenggot Gacor Full Besetan Kasar Bikin Lawan Ciut Nyali  Masteran Wajib Burung Lomba 225",
+			"url": "https://ia601502.us.archive.org/35/items/suara-burung-cucak-jenggot/Cucak%20Jenggot%20Gacor%20Full%20Besetan%20Kasar%20Bikin%20lawan%20Ciut%20Nyali%20%20Masteran%20Wajib%20Burung%20Lomba.mp3"
+		},
+
+		
+		{
+			"id": "82",
+			"judul": "Cucak Jenggot Gacor Full Besetan  Masteran Untuk Semua Jenis Burung 113",
+			"url": "https://ia601502.us.archive.org/35/items/suara-burung-cucak-jenggot/Cucak%20jenggot%20gacor%20full%20besetan%20%20masteran%20untuk%20semua%20jenis%20burung.mp3"
+		},
+
+		
+		{
+			"id": "83",
+			"judul": "Cucak jenggot betina 02 353",
+			"url": "https://ia601405.us.archive.org/17/items/cucak_jenggot_betina_01/cucak_jenggot_betina_02.mp3"
+		},
+
+		
+		{
+			"id": "84",
+			"judul": "Cucak jenggot 02 329",
+			"url": "https://ia601405.us.archive.org/17/items/cucak_jenggot_betina_01/cucak_jenggot_02.mp3"
+		},
+
+		
+		{
+			"id": "85",
+			"judul": "Suara cucak jenggot isian v3 685",
+			"url": "https://ia601003.us.archive.org/21/items/suara-cucak-jenggot-isian-v3/suara-cucak-jenggot-isian-v3.mp3"
+		},
+
+		
+		{
+			"id": "86",
+			"judul": "Suara Cucak Ijo Mini Betina 101280 262",
+			"url": "https://ia600802.us.archive.org/34/items/CucakJenggotBetina01101280/suara%20cucak%20ijo%20mini%20betina%20101280.mp3"
+		},
+
+		
+		{
+			"id": "87",
+			"judul": "Cucak jenggot 03 101280 457",
+			"url": "https://ia600802.us.archive.org/34/items/CucakJenggotBetina01101280/cucak_jenggot_03%20101280.mp3"
+		},
+
+		
+		{
+			"id": "88",
+			"judul": "Cucak jenggot 02 101280 310",
+			"url": "https://ia600802.us.archive.org/34/items/CucakJenggotBetina01101280/cucak_jenggot_02%20101280.mp3"
+		},
+
+		
+		{
+			"id": "89",
+			"judul": "Kicau Lovebird Rasa Cucak Jenggot 976",
+			"url": "https://ia600605.us.archive.org/19/items/KicauLovebirdRasaCucakJenggot/kicau%20lovebird%20rasa%20cucak%20jenggot.mp3"
+		},
+
+		
+		{
+			"id": "90",
+			"judul": "Cucak jenggot (4) 101280 224",
+			"url": "https://ia600601.us.archive.org/30/items/CucakJenggot101280/Cucak-Jenggot-%284%29%20101280.mp3"
+		},
+
+		
+		{
+			"id": "91",
+			"judul": "D0aaacd9 ffaf 7802 2964 d903bed96e7a 121",
+			"url": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2020-11-2/d0aaacd9-ffaf-7802-2964-d903bed96e7a.mp3"
+		},
+
+		
+		{
+			"id": "92",
+			"judul": "C8200fb6 05f0 5730 9fdb 5009acf4e1f0 865",
+			"url": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2020-11-2/c8200fb6-05f0-5730-9fdb-5009acf4e1f0.mp3"
+		},
+
+		
+		{
+			"id": "93",
+			"judul": "A3415f7a de72 f9da 5ca9 fcd6df09657b 997",
+			"url": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2020-11-2/a3415f7a-de72-f9da-5ca9-fcd6df09657b.mp3"
+		},
+
+		
+		{
+			"id": "94",
+			"judul": "92b12de3 4a48 9079 a22a a151a5e9a016 842",
+			"url": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2020-11-2/92b12de3-4a48-9079-a22a-a151a5e9a016.mp3"
+		},
+
+		
+		{
+			"id": "95",
+			"judul": "8b3e3781 1242 cbe8 1a70 0b8c2ee93797 101",
+			"url": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2020-11-2/8b3e3781-1242-cbe8-1a70-0b8c2ee93797.mp3"
+		},
+
+		
+		{
+			"id": "96",
+			"judul": "8a910fe6 b8d0 cb07 d262 0a9185d7d458 649",
+			"url": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2020-11-2/8a910fe6-b8d0-cb07-d262-0a9185d7d458.mp3"
+		},
+
+		
+		{
+			"id": "97",
+			"judul": "73aab9a0 6a37 561b 74ae ec9a5b37e4e4 185",
+			"url": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2020-11-2/73aab9a0-6a37-561b-74ae-ec9a5b37e4e4.mp3"
+		},
+
+		
+		{
+			"id": "98",
+			"judul": "17e291ef 9b04 3b7a 175d 2772723d768e 647",
+			"url": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2020-11-2/17e291ef-9b04-3b7a-175d-2772723d768e.mp3"
+		}
+
+	]
+}
