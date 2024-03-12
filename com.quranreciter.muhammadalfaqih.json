@@ -1,0 +1,808 @@
+{
+	"update": [{
+		"new_pkg": "com.quranreciter.muhammadalfaqih",
+		"message": "Please install app updates for your device before."
+	}],
+
+
+	"playlist": [
+		
+		{
+			"id": "1",
+			"judul": "001 109",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/001.mp3"
+		},
+
+		
+		{
+			"id": "2",
+			"judul": "002 634",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/002.mp3"
+		},
+
+		
+		{
+			"id": "3",
+			"judul": "003 101",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/003.mp3"
+		},
+
+		
+		{
+			"id": "4",
+			"judul": "004 324",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/004.mp3"
+		},
+
+		
+		{
+			"id": "5",
+			"judul": "005 842",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/005.mp3"
+		},
+
+		
+		{
+			"id": "6",
+			"judul": "006 754",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/006.mp3"
+		},
+
+		
+		{
+			"id": "7",
+			"judul": "007 313",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/007.mp3"
+		},
+
+		
+		{
+			"id": "8",
+			"judul": "008 906",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/008.mp3"
+		},
+
+		
+		{
+			"id": "9",
+			"judul": "009 779",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/009.mp3"
+		},
+
+		
+		{
+			"id": "10",
+			"judul": "010 843",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/010.mp3"
+		},
+
+		
+		{
+			"id": "11",
+			"judul": "011 369",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/011.mp3"
+		},
+
+		
+		{
+			"id": "12",
+			"judul": "012 708",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/012.mp3"
+		},
+
+		
+		{
+			"id": "13",
+			"judul": "013 418",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/013.mp3"
+		},
+
+		
+		{
+			"id": "14",
+			"judul": "014 656",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/014.mp3"
+		},
+
+		
+		{
+			"id": "15",
+			"judul": "015 795",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/015.mp3"
+		},
+
+		
+		{
+			"id": "16",
+			"judul": "016 543",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/016.mp3"
+		},
+
+		
+		{
+			"id": "17",
+			"judul": "017 898",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/017.mp3"
+		},
+
+		
+		{
+			"id": "18",
+			"judul": "018 406",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/018.mp3"
+		},
+
+		
+		{
+			"id": "19",
+			"judul": "019 155",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/019.mp3"
+		},
+
+		
+		{
+			"id": "20",
+			"judul": "020 342",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/020.mp3"
+		},
+
+		
+		{
+			"id": "21",
+			"judul": "021 602",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/021.mp3"
+		},
+
+		
+		{
+			"id": "22",
+			"judul": "022 401",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/022.mp3"
+		},
+
+		
+		{
+			"id": "23",
+			"judul": "023 466",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/023.mp3"
+		},
+
+		
+		{
+			"id": "24",
+			"judul": "024 908",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/024.mp3"
+		},
+
+		
+		{
+			"id": "25",
+			"judul": "025 897",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/025.mp3"
+		},
+
+		
+		{
+			"id": "26",
+			"judul": "026 773",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/026.mp3"
+		},
+
+		
+		{
+			"id": "27",
+			"judul": "027 197",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/027.mp3"
+		},
+
+		
+		{
+			"id": "28",
+			"judul": "028 603",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/028.mp3"
+		},
+
+		
+		{
+			"id": "29",
+			"judul": "029 518",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/029.mp3"
+		},
+
+		
+		{
+			"id": "30",
+			"judul": "030 720",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/030.mp3"
+		},
+
+		
+		{
+			"id": "31",
+			"judul": "031 159",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/031.mp3"
+		},
+
+		
+		{
+			"id": "32",
+			"judul": "032 700",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/032.mp3"
+		},
+
+		
+		{
+			"id": "33",
+			"judul": "033 826",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/033.mp3"
+		},
+
+		
+		{
+			"id": "34",
+			"judul": "034 918",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/034.mp3"
+		},
+
+		
+		{
+			"id": "35",
+			"judul": "035 248",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/035.mp3"
+		},
+
+		
+		{
+			"id": "36",
+			"judul": "036 304",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/036.mp3"
+		},
+
+		
+		{
+			"id": "37",
+			"judul": "037 634",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/037.mp3"
+		},
+
+		
+		{
+			"id": "38",
+			"judul": "038 205",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/038.mp3"
+		},
+
+		
+		{
+			"id": "39",
+			"judul": "039 902",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/039.mp3"
+		},
+
+		
+		{
+			"id": "40",
+			"judul": "040 366",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/040.mp3"
+		},
+
+		
+		{
+			"id": "41",
+			"judul": "041 808",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/041.mp3"
+		},
+
+		
+		{
+			"id": "42",
+			"judul": "042 316",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/042.mp3"
+		},
+
+		
+		{
+			"id": "43",
+			"judul": "043 219",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/043.mp3"
+		},
+
+		
+		{
+			"id": "44",
+			"judul": "044 386",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/044.mp3"
+		},
+
+		
+		{
+			"id": "45",
+			"judul": "045 873",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/045.mp3"
+		},
+
+		
+		{
+			"id": "46",
+			"judul": "046 437",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/046.mp3"
+		},
+
+		
+		{
+			"id": "47",
+			"judul": "047 302",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/047.mp3"
+		},
+
+		
+		{
+			"id": "48",
+			"judul": "048 456",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/048.mp3"
+		},
+
+		
+		{
+			"id": "49",
+			"judul": "049 967",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/049.mp3"
+		},
+
+		
+		{
+			"id": "50",
+			"judul": "050 474",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/050.mp3"
+		},
+
+		
+		{
+			"id": "51",
+			"judul": "051 241",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/051.mp3"
+		},
+
+		
+		{
+			"id": "52",
+			"judul": "052 994",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/052.mp3"
+		},
+
+		
+		{
+			"id": "53",
+			"judul": "053 421",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/053.mp3"
+		},
+
+		
+		{
+			"id": "54",
+			"judul": "054 448",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/054.mp3"
+		},
+
+		
+		{
+			"id": "55",
+			"judul": "055 176",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/055.mp3"
+		},
+
+		
+		{
+			"id": "56",
+			"judul": "056 137",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/056.mp3"
+		},
+
+		
+		{
+			"id": "57",
+			"judul": "057 606",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/057.mp3"
+		},
+
+		
+		{
+			"id": "58",
+			"judul": "058 406",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/058.mp3"
+		},
+
+		
+		{
+			"id": "59",
+			"judul": "059 119",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/059.mp3"
+		},
+
+		
+		{
+			"id": "60",
+			"judul": "060 450",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/060.mp3"
+		},
+
+		
+		{
+			"id": "61",
+			"judul": "061 572",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/061.mp3"
+		},
+
+		
+		{
+			"id": "62",
+			"judul": "062 548",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/062.mp3"
+		},
+
+		
+		{
+			"id": "63",
+			"judul": "063 580",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/063.mp3"
+		},
+
+		
+		{
+			"id": "64",
+			"judul": "064 836",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/064.mp3"
+		},
+
+		
+		{
+			"id": "65",
+			"judul": "065 501",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/065.mp3"
+		},
+
+		
+		{
+			"id": "66",
+			"judul": "066 114",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/066.mp3"
+		},
+
+		
+		{
+			"id": "67",
+			"judul": "067 267",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/067.mp3"
+		},
+
+		
+		{
+			"id": "68",
+			"judul": "068 812",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/068.mp3"
+		},
+
+		
+		{
+			"id": "69",
+			"judul": "069 400",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/069.mp3"
+		},
+
+		
+		{
+			"id": "70",
+			"judul": "070 500",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/070.mp3"
+		},
+
+		
+		{
+			"id": "71",
+			"judul": "071 757",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/071.mp3"
+		},
+
+		
+		{
+			"id": "72",
+			"judul": "072 670",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/072.mp3"
+		},
+
+		
+		{
+			"id": "73",
+			"judul": "073 963",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/073.mp3"
+		},
+
+		
+		{
+			"id": "74",
+			"judul": "074 281",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/074.mp3"
+		},
+
+		
+		{
+			"id": "75",
+			"judul": "075 614",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/075.mp3"
+		},
+
+		
+		{
+			"id": "76",
+			"judul": "076 341",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/076.mp3"
+		},
+
+		
+		{
+			"id": "77",
+			"judul": "077 422",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/077.mp3"
+		},
+
+		
+		{
+			"id": "78",
+			"judul": "078 114",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/078.mp3"
+		},
+
+		
+		{
+			"id": "79",
+			"judul": "079 465",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/079.mp3"
+		},
+
+		
+		{
+			"id": "80",
+			"judul": "080 946",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/080.mp3"
+		},
+
+		
+		{
+			"id": "81",
+			"judul": "081 229",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/081.mp3"
+		},
+
+		
+		{
+			"id": "82",
+			"judul": "082 441",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/082.mp3"
+		},
+
+		
+		{
+			"id": "83",
+			"judul": "083 824",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/083.mp3"
+		},
+
+		
+		{
+			"id": "84",
+			"judul": "084 489",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/084.mp3"
+		},
+
+		
+		{
+			"id": "85",
+			"judul": "085 849",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/085.mp3"
+		},
+
+		
+		{
+			"id": "86",
+			"judul": "086 513",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/086.mp3"
+		},
+
+		
+		{
+			"id": "87",
+			"judul": "087 939",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/087.mp3"
+		},
+
+		
+		{
+			"id": "88",
+			"judul": "088 262",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/088.mp3"
+		},
+
+		
+		{
+			"id": "89",
+			"judul": "089 158",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/089.mp3"
+		},
+
+		
+		{
+			"id": "90",
+			"judul": "090 988",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/090.mp3"
+		},
+
+		
+		{
+			"id": "91",
+			"judul": "091 625",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/091.mp3"
+		},
+
+		
+		{
+			"id": "92",
+			"judul": "092 636",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/092.mp3"
+		},
+
+		
+		{
+			"id": "93",
+			"judul": "093 213",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/093.mp3"
+		},
+
+		
+		{
+			"id": "94",
+			"judul": "094 476",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/094.mp3"
+		},
+
+		
+		{
+			"id": "95",
+			"judul": "095 325",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/095.mp3"
+		},
+
+		
+		{
+			"id": "96",
+			"judul": "096 464",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/096.mp3"
+		},
+
+		
+		{
+			"id": "97",
+			"judul": "097 332",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/097.mp3"
+		},
+
+		
+		{
+			"id": "98",
+			"judul": "098 619",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/098.mp3"
+		},
+
+		
+		{
+			"id": "99",
+			"judul": "099 541",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/099.mp3"
+		},
+
+		
+		{
+			"id": "100",
+			"judul": "100 668",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/100.mp3"
+		},
+
+		
+		{
+			"id": "101",
+			"judul": "101 537",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/101.mp3"
+		},
+
+		
+		{
+			"id": "102",
+			"judul": "102 258",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/102.mp3"
+		},
+
+		
+		{
+			"id": "103",
+			"judul": "103 570",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/103.mp3"
+		},
+
+		
+		{
+			"id": "104",
+			"judul": "104 334",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/104.mp3"
+		},
+
+		
+		{
+			"id": "105",
+			"judul": "105 233",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/105.mp3"
+		},
+
+		
+		{
+			"id": "106",
+			"judul": "106 825",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/106.mp3"
+		},
+
+		
+		{
+			"id": "107",
+			"judul": "107 588",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/107.mp3"
+		},
+
+		
+		{
+			"id": "108",
+			"judul": "108 318",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/108.mp3"
+		},
+
+		
+		{
+			"id": "109",
+			"judul": "109 434",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/109.mp3"
+		},
+
+		
+		{
+			"id": "110",
+			"judul": "110 439",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/110.mp3"
+		},
+
+		
+		{
+			"id": "111",
+			"judul": "111 418",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/111.mp3"
+		},
+
+		
+		{
+			"id": "112",
+			"judul": "112 200",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/112.mp3"
+		},
+
+		
+		{
+			"id": "113",
+			"judul": "113 840",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/113.mp3"
+		},
+
+		
+		{
+			"id": "114",
+			"judul": "114 767",
+			"url": "https://ia801301.us.archive.org/12/items/002_20231230/114.mp3"
+		}
+
+	]
+}
