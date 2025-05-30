@@ -4,12 +4,12 @@
             "id": "online1",
             "title": "Online1",
             "artist": "Variuous",
-            "coverUrl": "https://ia800306.us.archive.org/18/items/510-mimbar-official-lyric-visualizer/__ia_thumb.jpg",
+            "coverUrl": "https://i.scdn.co/image/ab67616d0000b2732c3b553e3189394a0b3f97ed",
             "songs": [
                 {
                     "id": "1",
-                    "title": "mimbar-official-lyric-visualizer",
-                    "artist": "510",
+                    "title": "AMO",
+                    "artist": "510 ft Fanny Soegi",
                     "duration": "0:00",
                     "path": "https://ia800306.us.archive.org/18/items/510-mimbar-official-lyric-visualizer/510%20-%20AMO%20%28feat.%20%40fannysoegi%20%29%20Lyric%20Video.mp3"
                 }
@@ -17,14 +17,14 @@
         },
         {
             "id": "online2",
-            "title": "Online2",
-            "artist": "Other",
-            "coverUrl": "https://ia600306.us.archive.org/18/items/510-mimbar-official-lyric-visualizer/SAYKOJI%20x%20PB%20GLAS%20-%20SO%20WHAT%20GITU%20LOH%20%5BLIVE%20%40%20HIPHOP%20INVASION%5D%20-%20EP31.png",
+            "title": "So What Gitu Loh",
+            "artist": "Saykoji, PB GLAS, ICEBOX ID",
+            "coverUrl": "https://i.scdn.co/image/ab67616d0000b273c7f7f93d067fca2538b8ebd1",
             "songs": [
                 {
                     "id": "1",
-                    "title": "mimbar-official-lyric-visualizer",
-                    "artist": "Sayhkojji",
+                    "title": "So What Gitu Loh",
+                    "artist": "Saykoji, PB GLAS, ICEBOX ID",
                     "duration": "0:00",
                     "path": "https://ia600306.us.archive.org/18/items/510-mimbar-official-lyric-visualizer/SAYKOJI%20x%20PB%20GLAS%20-%20SO%20WHAT%20GITU%20LOH%20%5BLIVE%20%40%20HIPHOP%20INVASION%5D%20-%20EP31.mp3"
                 }
@@ -32,14 +32,14 @@
         },
         {
             "id": "online3",
-            "title": "Online3",
-            "artist": "Otherss",
-            "coverUrl": "https://ia800306.us.archive.org/18/items/510-mimbar-official-lyric-visualizer/510%20-%20AMO%20%28feat.%20%40fannysoegi%20%29%20Lyric%20Video_spectrogram.png",
+            "title": "Mimbar",
+            "artist": "510",
+            "coverUrl": "https://i.scdn.co/image/ab67616d0000b273fe80b312dce2aed781820484",
             "songs": [
                 {
                     "id": "1",
-                    "title": "mimbar-official-lyric-visualizer",
-                    "artist": "Sayhkojji",
+                    "title": "Mimbar",
+                    "artist": "510",
                     "duration": "0:00",
                     "path": "https://ia800306.us.archive.org/18/items/510-mimbar-official-lyric-visualizer/510%20-%20Mimbar%20%28Official%20Lyric%20Visualizer%29.mp3"
                 }
