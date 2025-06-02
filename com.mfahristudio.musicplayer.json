@@ -2,46 +2,79 @@
     "playlist": [
         {
             "id": "online1",
-            "title": "Online1",
-            "artist": "Variuous",
+            "title": "New Music",
+            "artist": "510",
             "coverUrl": "https://i.scdn.co/image/ab67616d0000b2732c3b553e3189394a0b3f97ed",
             "songs": [
                 {
                     "id": "1",
                     "title": "AMO",
                     "artist": "510 ft Fanny Soegi",
-                    "duration": "0:00",
                     "path": "https://ia800306.us.archive.org/18/items/510-mimbar-official-lyric-visualizer/510%20-%20AMO%20%28feat.%20%40fannysoegi%20%29%20Lyric%20Video.mp3"
+                },
+				{
+                    "id": "2",
+                    "title": "Mimbar",
+                    "artist": "510",
+                    "path": "https://ia800306.us.archive.org/18/items/510-mimbar-official-lyric-visualizer/510%20-%20Mimbar%20%28Official%20Lyric%20Visualizer%29.mp3"
+                },
+				{
+                    "id": "3",
+                    "title": "Plastic Faith",
+                    "artist": "510",
+                    "path": "https://ia600903.us.archive.org/19/items/510-plastic-faith-lyrics-video/510%20-%20PLASTIC%20FAITH%20%28Lyrics%20Video%29.mp3"
                 }
             ]
         },
         {
             "id": "online2",
-            "title": "So What Gitu Loh",
-            "artist": "Saykoji, PB GLAS, ICEBOX ID",
+            "title": "So What Gitu Loh, So What Gitu Loh, So What Gitu Loh, So What Gitu Loh",
+            "artist": "Saykoji, PB GLAS, ICEBOX ID, Saykoji, PB GLAS, ICEBOX ID",
             "coverUrl": "https://i.scdn.co/image/ab67616d0000b273c7f7f93d067fca2538b8ebd1",
             "songs": [
                 {
                     "id": "1",
                     "title": "So What Gitu Loh",
                     "artist": "Saykoji, PB GLAS, ICEBOX ID",
-                    "duration": "0:00",
                     "path": "https://ia600306.us.archive.org/18/items/510-mimbar-official-lyric-visualizer/SAYKOJI%20x%20PB%20GLAS%20-%20SO%20WHAT%20GITU%20LOH%20%5BLIVE%20%40%20HIPHOP%20INVASION%5D%20-%20EP31.mp3"
                 }
             ]
         },
         {
             "id": "online3",
-            "title": "Mimbar",
-            "artist": "510",
-            "coverUrl": "https://i.scdn.co/image/ab67616d0000b273fe80b312dce2aed781820484",
+            "title": "A Change Of Season",
+            "artist": "Dream Theater",
+            "coverUrl": "https://ia801401.us.archive.org/10/items/dream-theatre-1-a-change-of-seasons/Dream%20Theatre%20-%20a%20change%20of%20seasons%20-%201995.jpg?cnt=0",
             "songs": [
                 {
                     "id": "1",
-                    "title": "Mimbar",
-                    "artist": "510",
-                    "duration": "0:00",
-                    "path": "https://ia800306.us.archive.org/18/items/510-mimbar-official-lyric-visualizer/510%20-%20Mimbar%20%28Official%20Lyric%20Visualizer%29.mp3"
+                    "title": "A change of seasons ",
+                    "artist": "Dream Theater",
+                    "path": "https://dn721607.ca.archive.org/0/items/dream-theatre-1-a-change-of-seasons/Dream%20Theatre%20-%201%20%20A%20change%20of%20seasons.mp3"
+                },
+                {
+                    "id": "2",
+                    "title": "funeral for a friend - love lies bleeding",
+                    "artist": "Dream Theater",
+                    "path": "https://ia801401.us.archive.org/10/items/dream-theatre-1-a-change-of-seasons/Dream%20Theatre%20-%202%20%20funeral%20for%20a%20friend%20-%20love%20lies%20bleeding.mp3"
+                },
+                {
+                    "id": "3",
+                    "title": "perfect strangers",
+                    "artist": "Dream Theater",
+                    "path": "https://dn721607.ca.archive.org/0/items/dream-theatre-1-a-change-of-seasons/Dream%20Theatre%20-%203%20%20perfect%20strangers.mp3"
+                },
+                {
+                    "id": "4",
+                    "title": "the rover - achilles last stand - song remains the same ",
+                    "artist": "Dream Theater",
+                    "path": "https://dn721607.ca.archive.org/0/items/dream-theatre-1-a-change-of-seasons/Dream%20Theatre%20-%204%20%20the%20rover%20-%20achilles%20last%20stand%20-%20song%20remains%20the%20same.mp3"
+                },
+                {
+                    "id": "5",
+                    "title": "5 big medley",
+                    "artist": "Dream Theater",
+                    "path": "https://dn721607.ca.archive.org/0/items/dream-theatre-1-a-change-of-seasons/Dream%20Theatre%20-%205%20%20big%20medley.mp3"
                 }
             ]
         }
